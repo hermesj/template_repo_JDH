@@ -1,0 +1,944 @@
+[
+  {
+    "id": 17906596382305804,
+    "created_at": 1643191288,
+    "text": "So viele Gedanken schaffen einen! Liebe Sophie, gönn dir eine Pause. Am Besten einen Urlaub, um wieder zu Kräften zu kommen.",
+    "owner": "9ace230d28ca8c95d8c16c2883e798e814465dfba68dcb6825cc3246737dde0d",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17880807617545079,
+    "created_at": 1643058013,
+    "text": "Geh öfter an die frische Luft oder stehe am offenen Fenster... Gegen Stressbedingte Kopfschmerzen hilft es nicht viel, wirkt aber trotzdem beruhigend!",
+    "owner": "7db88da42236284c037114104a8eb1eaccb443cfb17b7129d7d111589a8b4162",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17917040162220540,
+    "created_at": 1642975288,
+    "text": "Schlaflos,... das bin ich derzeit auch sehr oft...",
+    "owner": "533e4a86f8ce7b087f7c8faedac6002ed2e703b6bb936826818812e11dd77685",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17972301556496527,
+    "created_at": 1642974774,
+    "text": "Welches Datum ist eigentlich heute? 🤔",
+    "owner": "b56fe0c6ddfb24076578567e5dcaa497e64864767129850ba1c79d205a637d90",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17904530000428949,
+        "created_at": 1643008888,
+        "text": "@oledermae #TeamSoffer Wir befinden uns derzeit auf dem Kanal im Januar 1943.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 3
+      }
+    ]
+  },
+  {
+    "id": 17906346680313338,
+    "created_at": 1642970324,
+    "text": "Mach Pause! Die Konzentration ist wichtig! Du musst Kraft tanken!",
+    "owner": "d4a1473062b515b523980039748eec02651804de1b7488037a60d658be8fb554",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18267534463070779,
+    "created_at": 1642968049,
+    "text": "Trinke einen Tee zum entspannen- und geh am Besten raus an die frische Luft. Mir hilft schwarzer Tee mit Zitrone, der gibt sogar wieder Power",
+    "owner": "56f9a04a4b18f93fa03a21b082fa4324285b2a169d28016e8dfbea48932d1560",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17858803259678703,
+    "created_at": 1642965779,
+    "text": "👏",
+    "owner": "d0c98ffd198d5b254383ef2507887db519f1a12c5ddd161cc5243e33a773f618",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18030284017327210,
+    "created_at": 1642954870,
+    "text": "Wurde Ibuprofen schon erfunden?",
+    "owner": "cfcaa9be00007aad1bc082f4a2c86f193c0f1357fc99c4462ddbef2137447da0",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17955066727608788,
+        "created_at": 1642960234,
+        "text": "@ouzoweib lt Wikipedia wurde Ibuprofen im Rahmen eines Forschungsprojekts bei The Boots Pure Drug Company Ltd. unter Stewart Adams in den 1950er und 1960er Jahren entdeckt.",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 1
+      },
+      {
+        "id": 17919803462067516,
+        "created_at": 1642961926,
+        "text": "@zuagroastebayrischeschwaebin dann habe ich leider keine Antwort darauf, was sie gegen sie Kopfschmerzen machen soll",
+        "owner": "cfcaa9be00007aad1bc082f4a2c86f193c0f1357fc99c4462ddbef2137447da0",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 18191238463152603,
+    "created_at": 1642933535,
+    "text": "❤️",
+    "owner": "9d6989b8896c897144fd5154f32c00a7e67ce0a06148004649c4dbcf9b55fc5a",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17938638745744162,
+    "created_at": 1642933533,
+    "text": "❤️",
+    "owner": "9d6989b8896c897144fd5154f32c00a7e67ce0a06148004649c4dbcf9b55fc5a",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17918000222228985,
+    "created_at": 1642927322,
+    "text": "Oh, wenn ich dafür eine Lösung hätte... 😢 ich würde sie dir sofort verraten!!",
+    "owner": "5ce397877a71ee9b8c4fa9524dc88d9f3db1e509baf2b23a005a12d815d1b296",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17917398149321037,
+    "created_at": 1642900472,
+    "text": "Frische Luft. Spazieren.  Im Wald. Schlafen.",
+    "owner": "fe77bd9137c59a15899110f111b22f55012f4352dc89da6e86d79a7489d8bfaa",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17872857908637103,
+    "created_at": 1642897900,
+    "text": "Gute und schnelle Besserung!",
+    "owner": "027f8c7f94027604edfd19271561653fb811f6d987e3e25d1d56ce5e6f52cd60",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17952657736624362,
+    "created_at": 1642890973,
+    "text": "Oh Gott, heute in einem Monat ist Sophies Todestag oder?",
+    "owner": "c79e559e32376ed80c4fc2d0ee9764bb6848e50d63d7e8277292ab98cccd5228",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18251695333076805,
+    "created_at": 1642890632,
+    "text": "Einfach weitermachen. Wird schon.",
+    "owner": "4c88728a119f169d84f0d1bb422a096cd1e67782e8e4c295aaaff843350f50ec",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17934354409904527,
+    "created_at": 1642890252,
+    "text": "Asmr Videos sehen oder hören 😊 Funktioniert!",
+    "owner": "126cbb856b046cb9e8feb5c1feff222b04babd7549bee9f97ddc5b60c15b7777",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 18030222583335712,
+        "created_at": 1643008997,
+        "text": "@simply_my_art_10 Weil es in der Nazi-Zeit auch ASMR-Videos gab...",
+        "owner": "d08774ce65cd48287284fc5ada867aa38de57dd9b202063061b9b58b09179245",
+        "likes_count": 0
+      },
+      {
+        "id": 18010419085374599,
+        "created_at": 1643009827,
+        "text": "@levizzbackk ich bin nicht deutscherin, und ich weiss nicht, wer Sophie Sholl ist...",
+        "owner": "126cbb856b046cb9e8feb5c1feff222b04babd7549bee9f97ddc5b60c15b7777",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17923746824002648,
+    "created_at": 1642888522,
+    "text": "Eine kalt warmdusche , wurde mir empfohlen! Also abwechseln zwischen warmes und kaltes Wasser wurde mir von meinem Arzt empfohlen! Fordert die Durchblutung im Gehirn liebe Sophie ❤️",
+    "owner": "ba03fd2e0d9b759e5a363bc58ed73f7e3d19012b0b921a8d8ce99b680cbddd88",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 17943462457780701,
+        "created_at": 1642939858,
+        "text": "@zuagroastebayrischeschwaebin Ein Wechselfußbad soll ja auch schon helfen. Das hat schon Sebastian Kneipp gemacht.",
+        "owner": "0a23da0c170397da7f265ee232095704cffa7e2a720a0b2599f8fe8e5c37467a",
+        "likes_count": 0
+      },
+      {
+        "id": 17891033432549742,
+        "created_at": 1642896997,
+        "text": "@ly.or23 an sich sicher ein guter Tipp, aber ob es damals schon überall fließend Warmwasser gab? Vor allem so, dass man zügig hin- und herwechseln konnte..?",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 2
+      }
+    ]
+  },
+  {
+    "id": 17972565250495452,
+    "created_at": 1642887949,
+    "text": "Liebes #TeamSoffer , unter dem heutigen post wurden Kommentare gelöscht. Ich habe versucht die Gründe über Eure netiquette nachzuvollziehen, d.h. ob es sich z.B. um Verweise auf kommerzielle Inhalte handelte - dies war nicht der Fall. Könnt Ihr dies bitte noch erläutern? Danke.",
+    "owner": "029ed8055691989d740d858982a6bf0be8c424dcfe516f0378ad949cd6cea890",
+    "likes_count": 6,
+    "answers": [
+      {
+        "id": 17922805409119840,
+        "created_at": 1643023128,
+        "text": "@tinlemar #TeamSoffer Vielen Dank für dein tiefgehendes Interesse an unserem Kanal. Werbung für andere Webseiten - hierzu zählt jede Seite mit einer eigenen URL - widerspricht unserer Netiquette. Pauschale Verweise auf Fremdkanäle, die keinen Bezug zum Inhalt des diskutierten Beitrags enthalten, sind Werbung. Themenbezogene Hinweise auf weiterführende Informationen sowie eine kritische Auseinandersetzung mit unserem Kanal hingegen sind durchaus erwünscht.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 18109002088285213,
+    "created_at": 1642886963,
+    "text": "Hey Sophie geht es dir nun besser?",
+    "owner": "197e763f428113201d42c4e305ac95e5ccc1ab8552137a191a4c1d4da3a1a603",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17851922129682013,
+    "created_at": 1642885610,
+    "text": "Die Zeit geht so schnell um. Nun ist es nur noch ein Monat hin, dann wird das Todesurteil vollstreckt. Hätten sie doch nur noch etwas mehr als 2 Jahre gelebt, dann wäre der Krieg vorbei gewesen.",
+    "owner": "404c35169ccd179f361772f018db9775f18f8a759b49ed10afeed40acfe1ff0d",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18038134771317539,
+    "created_at": 1642881059,
+    "text": "Ich find’ das sooo genial, was ihr hier macht! Bitte, bitte noch lange weitermachen 🙈",
+    "owner": "512fb1f0dec4063dee3c6d84a1ee7f7eb5b235427fb39a19207b833d088236ac",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17900222672379624,
+    "created_at": 1642875465,
+    "text": "Vermutlich ein etwas oberflächlicher Kommentar, aber ganz grosses Kompliment an das \"Requisitenteam\"!!! Die Ausstattung ist grandios und hilft wirklich, dass man so richtig in die Geschichte abtauchen kann. Vor allem Sophies Garderobe ist super, habe schon diverse Teile entdeckt, die ich nachmachen will (ich stricke und nähe). 😍😍😍",
+    "owner": "3dc8eef81fc95195d83f8da4b57262c48a4311eacdd3448d814f9fe5d68df990",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17915446814127239,
+    "created_at": 1642869522,
+    "text": "Wärme auf die verspannte Rückenmuskulatur und kalte Waschlappen auf die Schläfen. Wenn Du echten Bohnenkaffee bekommen kannst diesen trinken mit Zucker. Das hilft. Klingt nach Spannungskopfweh . Ca . 30 Min vor dem Schlafen nichts mehr arbeiten sonst arbeitest Du unbewusst im Schlaf weiter und dann bist Du nicht gut erholt. Frische Luft hilft auch. Du arbeitest sowieso schon so viel. ❤️❤️❤️",
+    "owner": "9bde00e505c2e05b57d1c74bbe0961c9865fccae2c761f2e17b884a880d7baa3",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 18148836214233380,
+    "created_at": 1642865866,
+    "text": "Viel Wasser trinken und ausruhen",
+    "owner": "5f1716ba82f41136862cc005de0df149feb57bb18920e6411fd7880388bc77b3",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18034412536324387,
+    "created_at": 1642864210,
+    "text": "Versuchs doch mal mit Schwedentropfen, das ist ein altes Hausmittel mit Kräutern, einfach auf die Stirn reiben! Und frische Luft in der Natur, das hilft mir auch 🌳🌲🌲🌲🌲🌳🌳🍃",
+    "owner": "f48a21df1c50ea916f5c8cbb68da55a861860616a43a1cdc27e2d0c583c98883",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18110296306272273,
+    "created_at": 1642863204,
+    "text": "Schmeiß hin! Lass es sein. Es wird nichts bringen! Außer für die Nachwelt das tröstliche Wissen, dass nicht alle Deutschen hardcore-nazis waren. Aber das ist eure Leben nicht wert!! Denk doch mal an eure Mutter!",
+    "owner": "427696d79a20ec11e3fccc76ab9bf6f9c5d3f0b864e3861770ee38a1551d3596",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 18178736680160514,
+        "created_at": 1642925297,
+        "text": "@philosoph95 Bin nicht sicher, ob Sophie Scholl mit ihrem Handeln vor allem auf das jenseitige Leben fokussiert hat. Zumindest berichtet ihr Zellengenossin Else Gebel 1946, dass Sophie bis zum Schluss hoffte, ihre Aktionen und ihre Hinrichtung würden die anderen Studierenden aufrütteln: \"was liegt an unserem Tod, wenn durch unser Handeln tausende von Menschen aufgerüttelt und geweckt werden. – Unter der Studentenschaft gibt es bestimmt eine Revolte. […] Ich könnte doch auch durch eine Krankheit sterben, aber hätte das den gleichen Sinn?\"\nStattdessen gab es dann an der Uni München eine Dankesfeier zur erfolgreichen Zerschlagung des studentischen Widerstandes, auf der hunderte Studierende Jakob Schmid bejubelten, der die Scholls festgenommen hatte.",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 4
+      },
+      {
+        "id": 17957838262584487,
+        "created_at": 1642888281,
+        "text": "Es kommt nicht auf unser diesseitiges Leben an, sondern auf unserer Jenseitiges.",
+        "owner": "0a23da0c170397da7f265ee232095704cffa7e2a720a0b2599f8fe8e5c37467a",
+        "likes_count": 0
+      },
+      {
+        "id": 17913142550164750,
+        "created_at": 1642887765,
+        "text": "@conna_bn Das Martyrium ist eine Gnade Gottes. So viele andere Märtyrer, alter und neuer Zeit, haben ihr Leben für ihre christlichen Ideale gelassen und wurden belohnt mit einem besonderenPlatz im Himmel. Sophie war ein frommes und von der Hoffnung auf Gott erfülltes junges Fräulein und ihre Mutter ertrug das Martyrium ihrer Tochter mit Stolz und Freude.",
+        "owner": "0a23da0c170397da7f265ee232095704cffa7e2a720a0b2599f8fe8e5c37467a",
+        "likes_count": 0
+      },
+      {
+        "id": 17900696285359390,
+        "created_at": 1642926355,
+        "text": "@ conna_bn So wie ich die Dokumente von und über Sophie Scholl lese, denke ich, dass Aufhören für sie keine Option mehr war. Sie hat an sich in vielen Bereichen den Anspruch gestellt, konsequent zu handeln. Und sie hat sich in Briefen der letzten Monate (und in der Erinnerung von Zeitzeuginnen) mit der Frage der Schuld auseinandergesetzt, die sie nicht weiter auf sich laden wolle.",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 17942875282753691,
+    "created_at": 1642858541,
+    "text": "Gönn dir ne Auszeit und nimm dich aus allem raus ❤️",
+    "owner": "954c12344135ebc2fe6ca115f59c4c00487ed751d98807240f2a16e05b779c33",
+    "likes_count": 25,
+    "answers": [
+      {
+        "id": 17937797575869548,
+        "created_at": 1642860019,
+        "text": "@anabyinsta Das wird wohl das Sinnvollste sein. Ich hoffe, dass es mir nach der kleinen Auszeit schnell besser gehen wird. Ich brauche alle meine Kräfte für das Verteilen der Flugblätter, immerhin müssen wir dabei sehr vorsichtig sein.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 22
+      }
+    ]
+  },
+  {
+    "id": 17931384922956286,
+    "created_at": 1642858336,
+    "text": "Viel trinken (Wasser, Tee) und Ruhe. Und natürlich weniger rauchen. 😬",
+    "owner": "007920fa04ee2fc80024b983ed2bab791280d8ecd583bb5c84139e0ab0d2ba9c",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18207579142123988,
+    "created_at": 1642856607,
+    "text": "Vielleicht kannst du irgendwo Pfefferminz oder Lavendelöl auftreiben und damit die Schläfen einreiben. Mir hilft das ein wenig",
+    "owner": "0d39b480e565b9370f9254a15354040b80dd62c3e8998bab7616f198d38af30c",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17938221055873584,
+    "created_at": 1642855760,
+    "text": "@ichbinsophiescholl schwarzer Kaffee mit Zitrone falls vorhanden",
+    "owner": "867179d82ea7f13fb247ece35faa20bcad72dcb5baa907b76f8c057dd5d9a888",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17904682577411304,
+    "created_at": 1642853551,
+    "text": "Fühle so mit hab das selbe Problem, ein bisschen hilft es mit Ohrenstöpseln zu schlafen aber selbst das nicht immer",
+    "owner": "9bb4fc25cc8f26339cbf36ac96bf9c3fa400d7f3c1ab94c891318f97b121b9de",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17890776662536538,
+    "created_at": 1642852946,
+    "text": "Espresso mit einem Spritzer Zitrone 🍋",
+    "owner": "f897bb97bc337d529f5b7d16f2afd522cf22349b307b118cf6f4935708567540",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17879643170551088,
+    "created_at": 1642852378,
+    "text": "Bin ich der einzige oder sieht Sophie in dem Winkel bisschen anders aus? 😂",
+    "owner": "f327f283c617270a4b2dc6fd37550dd1e325c248fd6caa32b537c5e182af22c4",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17950102105636716,
+    "created_at": 1642850661,
+    "text": "das schreit nach einem Aufenthalt im Wald...",
+    "owner": "9dfda8e822b146819457bb0ad5211429a2193b62e3eb4f297eecaba6b6e58a18",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17956453657595134,
+    "created_at": 1642850080,
+    "text": "Oje, Kaffee und Vitamin C, und Sauerstoff könnten helfen, aber ich fonds so bewundernswert wieviel Kraft du mobilisierst in deiner Situation.. ich fühl mich oft bei viel weniger schon entkräftet- und dass alles zuviel wird ist wohl eine natürliche Reaktion, soviel lastet auf deinen Schultern. Hol dir Hilfe wenn du kannst.. 😢💪🏻🎈",
+    "owner": "2d9c0c571874d31b93c8086727f93a06d4f8ea20d936ac395de6b4b97556c331",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17938004944874690,
+    "created_at": 1642849182,
+    "text": "Das ist der gesamte Brief den Sophie Scholl An Otl Aicher schrieb:\n„München. 19.1.1943\nLieber Otl!\nVerzeih mir, wenn ich nicht geschrieben habe, und wenn auch dies kein eigentlicher Brief wird. Ich bin gerade nicht beieinander, etwas, das mir bis jetzt vollständig unbekannt war. Meine Gedanken springen hierhin und dahin, ohne daß ich richtig über sie gebieten könnte, ich habe ziemliche Kopfschmerzen, das mag schuld daran tragen, wenigstens einen Teil. Doch wird diese Krankheit bald vorüber sein, ich muß selbst Geduld mit mir haben. Wenn ich etwas erkenne, so ist es, als hätte es zuvor in mir wach sein müssen, und entfalte sich nun auf einmal, Blatt für Blatt. So ist mir eine ewige Ordnung, in der der eine höher steht als der andere, wogegen ich mich früher so heftig gesträubt habe, plötzlich gar nicht mehr so absurd, sogar ganz richtig so. Ich habe dies an mir selbst entdeckt, an einer Eigenschaft, die ich früher zu vermissen meinte an mir, am Ehrgeiz nämlich. Ich verwerfe ihn ganz und gar und möchte keine gute Faser mehr an ihm lassen. Er ist es, der alle Ordnung auf den Kopf stellen will, weil er den von ihm Besessenen an einen Platz rücken will, der ihm nicht gebührt. Ja, ich bemerkte auf einmal mit Schrecken, daß ich alles anscheinend Gute getan hatte, nicht um Gutes zu tun, sondern um in den Augen anderer für gut zu gelten, oder um meinetwegen einen guten Menschen einzuholen wie ein Wettläufer den anderen. Anstatt daß ich ihm zugestände, daß er der bessere Läufer sei, und meinen zweiten oder zwanzigsten Platz als ganz gerecht und mit Bescheidenheit einnähme. Oder glaubst Du, was ich hier zusammenschreibe, ist falsch? Es beschäftigt mich gerade sehr, weil ich dauernd kleine Reibereien mit mir selber habe.\n⤵️",
+    "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+    "likes_count": 13,
+    "answers": [
+      {
+        "id": 17936372488785075,
+        "created_at": 1642854945,
+        "text": "@zuagroastebayrischeschwaebin Was für eine ausgeprägte Fähigkeit, sich selbst zu reflektieren. Was für nachdenkliche Menschen, obwohl sie so jung sind. Kein Wunder, dass diese klugen, sensiblen jungen Leute unter dem System gelitten und davon angewidert waren.",
+        "owner": "7eef12d63ad4310ad2e33f1b23f116994eaeaf45949caba964bb8aea9130fb40",
+        "likes_count": 7
+      },
+      {
+        "id": 17913029660175759,
+        "created_at": 1642856897,
+        "text": "@bettine1960 ja, absolut! Es geht mir auch immer wieder so!  Man merkt auch, dass zu dieser Zeit nur noch solche Themen eine Rolle spielten, während in früheren Briefen dich auch eher mal noch was aus dem Alltag dabei war (und sei es es lästern über die anderen beim RAD gewesen, oder ein Ausflug irgendwohin - das taucht immer weniger auf und wird wenn dann auch sehr kurz abgehandelt)",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 3
+      },
+      {
+        "id": 17871651386604253,
+        "created_at": 1642849260,
+        "text": "Ich kann nicht begreifen, daß einige Menschen nur Augenblicke der Versuchung haben. Ich habe Augenblicke, wo ich klarer sehe, dafür bin ich sehr dankbar, im übrigen aber rudere ich im Trüben herum. Doch ich habe das Gefühl, als hätte ich schon zu viel geschwatzt; deshalb schreibe ich jetzt so ungern, weil zu wenig abgerundet und für andere fertig aus mir herauskommt. Hoffentlich geht es Dir nicht schlecht. Ich freue mich sehr, bis Du Urlaub bekommst, und wir wieder, für einige Zeit wenigstens,zusammen sein werden.\nEinstweilen sei herzlich gegrüßt\nvon Deiner Sophie“\nQuelle:\nHans Scholl und Sophie Scholl. Briefe und Aufzeichnungen, S. 286f",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 9
+      }
+    ]
+  },
+  {
+    "id": 17971853515494885,
+    "created_at": 1642848802,
+    "text": "Deine Anspannung ist offensichtlich und wir wissen, dass sich Eure Lage dramatisch weiter zuspitzen wird. Bevor es sehr bald sehr heftig wird, möchte ich dem ganzen Team hinter diesem Projekt schon mal sehr herzlich danken. Keine Frage, was Ihr hier macht, ist mit weitem Abstand der wertvollste Content, den Instagram je gesehen hat. Ihr habt jeden Medienpreis verdient, den es gibt!",
+    "owner": "2c6508304c66b3a93e9057c13248f49c46d1f89a7b8658b386f2d987029606e3",
+    "likes_count": 82,
+    "answers": [
+      {
+        "id": 18206487196193727,
+        "created_at": 1642876465,
+        "text": "@dabringhausenlars 👏👏👏",
+        "owner": "1930251c1158ca67164635223c90b52f6338c8f14dbc1de801d379886307c959",
+        "likes_count": 1
+      },
+      {
+        "id": 17917017947212988,
+        "created_at": 1642849553,
+        "text": "@dabringhausenlars #TeamSoffer Vielen Dank für die lobenden Worte! Es freut uns, dass du so sehr dabei bist und dir Gedanken machst, wie es auf dem Kanal weitergehen wird. Selbstverständlich wollen wir auch zum Ende unseres Projektes der Geschichte und den historischen Figuren gerecht werden. Das Projekt endet nicht mit der Verhaftung und dem Tod von Sophie und Hans Scholl. Es wird darüber hinaus weitere Inhalte geben, mit denen wir die Community auffangen und informieren wollen. Liebe Grüße!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 52
+      }
+    ]
+  },
+  {
+    "id": 17852729780701071,
+    "created_at": 1642848761,
+    "text": "Ich wünsche dir gute Besserung liebe Sophie. Wenn ich Kopfschmerzen habe hilft nur eines. Alles zumachen und ins Bett",
+    "owner": "d1a196f4ba469bd082ecb8134492d9cf8cde672943972828741f48a95a44c188",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 17936387152772524,
+        "created_at": 1642849225,
+        "text": "@ulrikeruest Das kann ich verstehen, manchmal will ich mein Bett auch nicht verlassen. Ruhe hilft oft mehr als man denkt.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 17994094246414292,
+    "created_at": 1642848698,
+    "text": "Schlafen hilft",
+    "owner": "cb06b55bd0d32f3bcf54e8e9bd1414375a9f946a8fc2631648c5f90e059a3f09",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 18202936204125319,
+    "created_at": 1642847816,
+    "text": "„Wenn jeder wartet, bis der andere anfängt, werden die Boten der rächenden Nemesis unaufhaltsam näher und näher rücken, dann wird auch das letzte Opfer sinnlos in den Rachen des unersättlichen Dämons geworfen sein. Daher muß jeder einzelne seiner Verantwortung als Mitglied der christlichen und abendländischen Kultur bewußt in dieser letzten Stunde sich wehren, soviel er kann, arbeiten wider die Geißel der Menschheit, wider den Faschismus und jedes ihm ähnliche System des absoluten Staates. Leistet passiven Widerstand - Widerstand -, wo immer Ihr auch seid, verhindert das Weiterlaufen dieser atheistischen Kriegsmaschine, ehe es zu spät ist, ehe die letzten Städte ein Trümmerhaufen sind, gleich Köln, und ehe die letzte Jugend des Volkes irgendwo für die Hybris eines Untermenschen verblutet ist. Vergeßt nicht, daß ein jedes Volk diejenige Regierung verdient, die es erträgt!“\nFlugblatt I, Weiße Rose\n#wirsindeuerbösesgewissen",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 18,
+    "answers": []
+  },
+  {
+    "id": 17904005726451795,
+    "created_at": 1642847379,
+    "text": "Hört sich ganz  nach Migräne an...da braucht man viel Ruhe, Rückzug und liebevolle Selbstfürsorge❤️",
+    "owner": "1a27809e5a4126783ba546153f67f860608141f3126dc558baf7022255f5072c",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18004704550377182,
+    "created_at": 1642847081,
+    "text": "Es gibt Druckpunkte im Nacken. Wenn du ein bischen probierst, findest du sie und kannst dir eine kleine Massage machen. Bei mir funktioniert das meist. Oder der Punkt zwischen den Augen...",
+    "owner": "19e093f2459494c7048b6912aca9e68cb8fb4e3d3d09ab14c0a4e8bcf60b1f33",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17898558023402891,
+    "created_at": 1642847047,
+    "text": "Zu wissen, was bald passiert, ist ein ganz fieses Gefühl. Ich habe das Bedürfnis los zu schreien, dass Sophie und Hans in Gefahr sind 😢",
+    "owner": "75fd276a0969a2dfce2dc866f62bfbaceeb423b62c62aface493eb1c6c462ef0",
+    "likes_count": 8,
+    "answers": []
+  },
+  {
+    "id": 18152313736225349,
+    "created_at": 1642847036,
+    "text": "Viel trinken und schlafen. Jnd wenns wieder einigermaßen mit den Schmerzen, geht einen Dpaziergang machen",
+    "owner": "0575af870a3cc86482ad77f83d4ea78cd9577be820d3558f218cb13886c3d888",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17920480886168239,
+    "created_at": 1642847004,
+    "text": ".\n🗓 22.01.1943\n\n◼️ Bezirk Bialystok/Auschwitz\n\nAus dem Ghetto von Grodno werden etwa 3.650 Menschen nach Auschwitz eingeliefert. 229 Frauen und 365 Männer werden als Häftlinge registriert; die übrigen etwa 3.056 Menschen werden in den Gaskammern getötet. (Czech, S. 389)\n\n◼️ RK Ostland\n\nMeldungen aus den besetzten Ostgebieten Nr. 38.\n\nBeim \"Unternehmen Hamburg\" im Raum von Slonim (Weißrußland) wurden 1.676 \"Banditen\" getötet und 1.510 \"bandenverdächtige Personen\" erschossen. \"In den Gemeinden, die in dem Aktionsbereich lagen, wurden außerdem 2.658 Juden sowie 30 Z*** gestellt.\"\n\nBeim \"Unternehmen Altona\" im Raum Kossow-Bythen (Weißrußland) wurden bei Kämpfen 97 Mitglieder einer \"größeren Bandengruppe\" getötet. \"Ferner wurden in diesem Raum 785 bandenverdächtige Personen erschossen und 126 Juden und 24 Z*** gestellt.\" (IMT, PS-3943)\n〰️\nQuelle:\nhttp://www.holocaust-chronologie.de/chronologie/1943/januar.html",
+    "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+    "likes_count": 11,
+    "answers": []
+  },
+  {
+    "id": 17949697186639264,
+    "created_at": 1642846079,
+    "text": "Die Spannung unter der Ihr alle steht ist riesig. Das verursacht womöglich diese Beschwerden. Ich wünsche Dir Entspannung und Kraft ❤️",
+    "owner": "4c444c591462d70cb16466fa780a728ef89e6002bbd7bc70d8b6feaafe60a170",
+    "likes_count": 24,
+    "answers": [
+      {
+        "id": 17877241478625017,
+        "created_at": 1642848044,
+        "text": "@captain.freddie Die Anspannung kann ich nicht bestreiten, immerhin arbeiten wir seit Wochen unermüdlich an der Vervielfältigung der Flugblätter. Einen Tag Auszeit vom Atelier und ein Spaziergang an der frischen Luft wird mir sicherlich gut tun.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 19
+      }
+    ]
+  },
+  {
+    "id": 17843942507714511,
+    "created_at": 1642845545,
+    "text": "Tee",
+    "owner": "3ddc833c6ece36f99bfdc03208ec14967e37f5f2e5e7d01a4296660ca6f61e40",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17967696583518457,
+    "created_at": 1642845485,
+    "text": "Wir sind alle bei dir, Sophie ❤! Du stehst so unter Anspannung und Druck, da sind körperliche Symptome überhaupt kein Wunder. Habt ihr noch echten Kaffee ☕? Das könnte helfen. Koffein weitet die Blutgefäße. Überhaupt viel trinken. Und nimm ruhig ne Schmerztablette, wenn du eine hast. Ausserdem solltest du eine Pause einlegen. Gibt es einen Park in der Nähe? Sorry, jetzt habe ich dich auch noch zugetextet 🤦‍♀️. Gute Besserung!",
+    "owner": "4881404b571af07d965f8f574391ddab9e25ca717dbfff3cafa2a63ef5a02cc8",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 18273637471023540,
+        "created_at": 1642888739,
+        "text": "@most.boring.facts Du hast Recht! Das alles und die ganzen Tipps fühlen sich ziemlich schräg an beim Lesen…",
+        "owner": "6f414be84e3284512df0cd689ebfaaa471488b52ad858711517504c99f5ab743",
+        "likes_count": 4
+      },
+      {
+        "id": 17920987829157360,
+        "created_at": 1642885226,
+        "text": "@andreahotopp Nein, wir sind nicht bei ihr. Wir sind keine Mit-Widerständler*innen, weil wir 80 Jahre später einer virtuellen fiktiven Version von Sophie auf instagram beistehen und nicht der historischen Persönlichkeit Sophie Scholl.",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 7
+      }
+    ]
+  },
+  {
+    "id": 18274564483042038,
+    "created_at": 1642845413,
+    "text": "Ich habe heute auch starke Kopfschmerzen und werde viel Wasser trinken und etwas essen. Schwarzer Tee hilft mir auch manchmal.",
+    "owner": "19d2e63752b8c51d0187dfd029512928d3b13ac45435b94ab755851e0518e005",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18029298343326847,
+    "created_at": 1642845162,
+    "text": "Dehnübungen helfen mir immer total. Hat mir meine Osteopatin empfohlen Deine Kopfschmerzen kommen bestimmt von deiner ganzen Arbeit. Mach mal Lockerungsübungen und achte auf deine Haltung wenn du das nächste Mal Flugblätter druckst. Gute  Besserung! 😵‍💫💕💗💕",
+    "owner": "42d8478652779802b05cf3269d9ea307e8cbea34a0f14c538952a89dad6090ec",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17905447790418298,
+    "created_at": 1642845062,
+    "text": "Versuche es mit reichlich Pfefferminztee",
+    "owner": "c8b8d2c0343804383a2aa95f935cb09047df7d0d6b6818c6a559082b70a44e55",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17885712950600055,
+    "created_at": 1642844673,
+    "text": "Ist es vielleicht auch der Föhn in München? Seit ich hier im Münchner Osten wohne, hab ich regelmäßig Kreislaufprobleme und Kopfschmerzen… Als ich meine Ausbildung in Ulm gemacht habe, hatte ich das nicht und auch zuhause bei meinen Eltern in Schwaben nur eher selten. Hier gehört es jedem Monat ein paar Tage mit dazu 😶",
+    "owner": "32af06c8faed2f9339895d3be6564edd9abefd1d283520e7f14844720245e99f",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 18224760508099968,
+    "created_at": 1642844532,
+    "text": "Aspirin complex ach nee gibt’s noch nicht. Dann das Aspirin von früher.",
+    "owner": "b3397b7ff37960b21d2fecdecc408a0414d158f7e92a0514981dd3126df70585",
+    "likes_count": 2,
+    "answers": [
+      {
+        "id": 18124013644248892,
+        "created_at": 1642856081,
+        "text": "@nilsklixx „unnötige Operationen an gesunden Menschen durch. Einige mißbrauchten die Gefangenen auch zu Medikamententests, für welche sie häufig sogar mit speziellen Krankheiten infiziert wurden, die oft tödlich verliefen. Die meisten der pharmazeutischen Präparate stellte bereitwillig die Firma Bayer zur Verfügung, die damals zum Chemiekonzern IG-Farben gehörte. Aber nicht nur SS-Ärzte, sondern auch ganz „normale“ Militärmediziner beteiligten sich an Menschenversuchen in den KZs. In Auschwitz wollte einer von ihnen herausfinden, wie man Selbstverletzungen bei Deserteuren erkenne und fügte deshalb Häftlingen viele schlimme und schmerzhafte Wunden zu.“ \n\nhttps://www.kiga-berlin.org/Dokumentationen/auschwitz/Pages/hi12.html",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 5
+      },
+      {
+        "id": 17971612267494679,
+        "created_at": 1642862252,
+        "text": "@most.boring.facts Fritz ter Meer war von 1925 bis 1945 Mitglied im Vorstand der I.G. Farben AG und hier u.a. mit verantwortlich für den Aufbau des Buna-Zweigwerkes der I.G.-Farben bei Auschwitz, in dem zur Substanzprüfung Menschenversuche stattfanden. In Bau und Betrieb kamen nach Schätzungen 20.000 bis 25.000 Zwangsarbeiter ums Leben.\nSeine Verteidigung beim Nürnberger Kriegsverbrecher-Prozess: Den Zwangsarbeitern sei kein besonderes Leid zugefügt worden, \"da man sie ohnedies getötet hätte\".\n\nNachdem er 1950 wegen guter Führung aus der Haft entlassen wurde und 1954 die Kriegsverbrecher-Sperrklausel aufgehoben worden war, wurde ter Meer Aufsichtsratvorsitzender der Bayer AG und behielt diese Position bis 1964.\nSeinem Andenken war die von Bayer begründete Fritz-ter-Meer-Stiftung gewidmet,",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 7
+      }
+    ]
+  },
+  {
+    "id": 17890842197495949,
+    "created_at": 1642844293,
+    "text": "Genau frische Luft und etwas Ruhe wären gut für Dich ! Pfefferminzöl auf den Schläfen wirkt wahre Wunder wrnn es etwas zur Zeit gibt ?!? Gute Besserung jedenfalls",
+    "owner": "5aab61ad07ab9f48bda2e9051e72d51b013a037afe3f74a642c1a94bfe9e245b",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18185914225083983,
+    "created_at": 1642843679,
+    "text": "Was ist mit Pervitin?\n„Das größte Rätsel für die Historiker bleibt die Frage, warum sie sich so widerstandslos festnehmen ließen. Forscher heute verweisen auf simple psychische Faktoren: permanente Anspannung, große Enttäuschung, weil die Flugblätter bis dahin nichts bewirkt haben, und das Aufputschmittel Pervitin, das damals alle Flieger, aber auch Soldaten und Studenten benutzen, um sich wach zu halten.“\n\nhttps://www.br.de/radio/bayern2/sendungen/radiowissen/geschichte/geschwister-scholl-110~attachment.pdf?",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 25,
+    "answers": []
+  },
+  {
+    "id": 18274605751019492,
+    "created_at": 1642843597,
+    "text": "Spazieren gehen und dabei gut durchatmen. Wenn Du Pfefferminzöl hat, kann das auf die Schläfen getupft auch helfen",
+    "owner": "00df6e6b066c858e051882d952a288523c6cda98bd389d7d6ee2dba54bf4b6ac",
+    "likes_count": 5,
+    "answers": []
+  },
+  {
+    "id": 17946674557709361,
+    "created_at": 1642843425,
+    "text": "Vielleicht noch einmal in die Natur gehen, frische Luft tanken & durchatmen! ...und dann weiter kämpfen. Jeder Held braucht auch 'mal eine Pause um seine Akkus zu laden. So geht's auch bestimmt mit der Konzentration wieder besser!",
+    "owner": "96f9fb24deed56b30b12453238ba29059473c074a4563c536d197861ea99b076",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17945962786703341,
+    "created_at": 1642843362,
+    "text": "Wenige Kilometer von Sophie entfernt, im Konzentrationslager Dachau, werden Menschenexperimente durchgeführt.\n„SS-Ärzte führten dort ab 1941 grausame medizinische Experimente an Häftlingen durch. Im Auftrag der Luftwaffe erfolgten unter ihrer Leitung Unterkühlungs-, Höhen- und Meerwasserversuche. Gefangene wurden in einem Wasserbecken lebensbedrohlich unterkühlt, in einer Unterdruckkammer extremen Druckschwankungen ausgesetzt und gezwungen, chemisch behandeltes Salzwasser zu trinken. Andere wurden mit Malariaerregern und Phlegmone infiziert, um Medikamente zu erproben. Hunderte von Menschen starben dabei.“\n\nhttps://www.kz-gedenkstaette-dachau.de/historischer-ort/virtueller-rundgang/krankenrevier/",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 23,
+    "answers": []
+  },
+  {
+    "id": 17927479916050604,
+    "created_at": 1642843300,
+    "text": "21. Januar 43 Tagebuch von Willi Graf\nAm Vormittag Köln, ein interessanter Besuch. Am Mittag Bonn. Mit Hein zusammen, ein Gang am Rhein vorbei. Es ist doch schwieriger. Besuch auf dem Fechtboden.\n\nEinige Stunden mit Marita und Hein, zwischendurch der Fliegeralarm. Um 10 Uhr bei Kabi: Wein und Pfeifen leisten uns Gesellschaft. Erinnerungen. Zwischendurch auch ein paar vernünftige Sätze. Ich empfinde die Müdigkeit gar nicht sehr, obwohl es sehr spät wird.\n\nAus dem red. Kommentar: Der Besuch in Köln galt dem Kaplan Dr. Franz Tack, den Willi Graf für die Unterstützung des Widerstands gewinnen wollte. Während er hier erfolgreich war, konnte er seine Freund*innen in Bonn nicht überzeugen. Durch sein kluges Verhalten im Verhör gelang es Willi Graf, diese Personen vor einer Festnahme zu schützen.",
+    "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+    "likes_count": 20,
+    "answers": []
+  },
+  {
+    "id": 17953461580573778,
+    "created_at": 1642843178,
+    "text": "Viel Wasser oder Tee trinken. Kopfschmerzen habe ich leider auch oft.",
+    "owner": "6d241b14cc44bf861ffae8d2c6085bf63907af9b4ffb84061a037bd10b4299f9",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17875789604583473,
+    "created_at": 1642842979,
+    "text": "Viel stilles Wasser trinken",
+    "owner": "0bd0cc3cb483dd0d3f77383dab57d1d7690443988803334f20426fe881cb7660",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 17971036483498866,
+        "created_at": 1642848657,
+        "text": "@ichbinsophiescholl oh ja 🙂",
+        "owner": "0bd0cc3cb483dd0d3f77383dab57d1d7690443988803334f20426fe881cb7660",
+        "likes_count": 0
+      },
+      {
+        "id": 17961523006554642,
+        "created_at": 1642843783,
+        "text": "@evasussemaus Viel Trinken ist wohl das Beste, was ich derzeit tun kann. Ein warmer Tee zur kalten Jahreszeit hat doch auch etwas entspannendes, nicht wahr?",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 3
+      }
+    ]
+  },
+  {
+    "id": 17937817882846072,
+    "created_at": 1642842924,
+    "text": "Wenn Du irgendwie an Pfefferminzöl kommen kannst, dann reibe Dir etwas auf Schläfen und Stirn. Das kühlt und entspannt und hilft Wunder bei Kopfschmerzen und auch gegen Anspannung. Alles Gute, meine Liebe!",
+    "owner": "9c86da0960673a1e63bda9e16aac9f32be1fd0ecab2ba628f07a71abe5ad0085",
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 18026107003341810,
+        "created_at": 1642865834,
+        "text": "@dredradrullala das stimmt Pfefferminzöl wirkt wirklich Wunder! Geb ich meiner Kleinen immer.",
+        "owner": "42d8478652779802b05cf3269d9ea307e8cbea34a0f14c538952a89dad6090ec",
+        "likes_count": 2
+      }
+    ]
+  },
+  {
+    "id": 18186506446084038,
+    "created_at": 1642842914,
+    "text": "Rizatriptan",
+    "owner": "ceb0620e86bf379e12513b03b4063e05a3f0270f21eacd6e46aaa942dab3983e",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18254869315078632,
+    "created_at": 1642842805,
+    "text": "21. Januar 1943, Konzentrationslager Auschwitz\nRapportführer Palitzsch bringt zwei acht und neun Jahre alte inhaftierte Jungen aus dem Lager Birkenau in den Häftlingskrankenbau, Block 20. Es handelt sich um Mieczyslaw Rycaj (Nr. 83911) und Tadeusz Rycyk (Nr. 83910), die am selben Tag auf Anweisung von Palitzsch durch Phenolspritzen getötet werden. Die beiden Jungen stammen aus der Umgebung von Zamosc und sind mit ihren Müttern am 13. Dezember in einem Transport in das Lager deportiert worden.\n\nQuelle: Danuta Czech: Kalendarium der Ereignisse im Konzentrationslager Auschwitz-Birkenau 1939-1945, S. 389\nGerhard Palitzsch \"begrüßte\" die in Auschwitz angekommenen Häftlinge wie folgt: „Wir Deutschen haben kein Mitleid mit den Feinden des Dritten Reiches, so wie ihr welche seid. Mit Freude werden wir euch alle durch die Kamine der Krematorien jagen. Vergeßt eure Frauen, eure Kinder und eure Familien. Hier werdet ihr verrecken wie Hunde“",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 22,
+    "answers": [
+      {
+        "id": 17909761898472200,
+        "created_at": 1642868352,
+        "text": "Wie furchtbar! 😭",
+        "owner": "42d8478652779802b05cf3269d9ea307e8cbea34a0f14c538952a89dad6090ec",
+        "likes_count": 1
+      },
+      {
+        "id": 17907066113462086,
+        "created_at": 1642848037,
+        "text": "So schlimm",
+        "owner": "89806751593f433172be8155a31b80d79eb88e0160bde1f10da63647e2dea1de",
+        "likes_count": 5
+      }
+    ]
+  },
+  {
+    "id": 17880649103535234,
+    "created_at": 1642842637,
+    "text": "Ich glaube du hast einfach zu viel \"Druck\" ... deine Gedanken kreisen permanent um den Widerstand ... und immerr müsst ihr vorsichtig sein ... auch wenn das bestimmt sehr schwer ist, denke ich du brauchst etwas Ablenkung ... auch wenn es dir schwer fällt ... geh vllt mal einen Tag nicht ins Atelier ... mach was nur für dich ... irgendwas aus dem du positive Energie ziehen kannst ... vllt hilft dir sowas ... ❤️",
+    "owner": "b7ef6c38204312a82a05d1e647355c6aed17ff47f983dcea299a34d66314b148",
+    "likes_count": 11,
+    "answers": [
+      {
+        "id": 17939650195737902,
+        "created_at": 1642843681,
+        "text": "@elakuehn72 Das klingt fantastisch! Ich denke, dass ich das Schreien wohl weglassen werde, da das nur für Aufsehen sorgt, aber einen Tag nicht ins Atelier zu gehen und stattdessen einen Spaziergang zu machen hilft mir immer dabei, meine Gedanken zu ordnen und mich auf das Wesentliche zu besinnen.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 9
+      }
+    ]
+  },
+  {
+    "id": 17907629210279031,
+    "created_at": 1642842631,
+    "text": "Mir geht es auch ganz ähnlich, wenn der innere Druck und die Anforderungen zu groß sind. Manchmal hilft eine Umarmung eines Vertrauten, ein Spaziergang oder einfach mal Dinge schreien lassen, um den Druck ein wenig rauszunehmen. Aber was weiß ich schon, was du derzeit alles zu tragen hast...",
+    "owner": "b2c2675e65e92a5b21aaa1f548f2caff6f030ce4bb07dfc1b77780809ad30c9f",
+    "likes_count": 9,
+    "answers": []
+  },
+  {
+    "id": 18199191049181084,
+    "created_at": 1642842453,
+    "text": "Einen Spaziergang im Wald  befreit deinen Kopf ❤️",
+    "owner": "6218180ba735cd34064562aa4daa5655a54ce71928174d665022236a9bddf9f3",
+    "likes_count": 20,
+    "answers": [
+      {
+        "id": 18143263018245913,
+        "created_at": 1642842719,
+        "text": "@giusy79_ Das könnte ich gerade wirklich gebrauchen! In die Natur zu gehen und die Ruhe zu spüren ist immer sehr befreiend!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 10
+      }
+    ]
+  },
+  {
+    "id": 18013523251370191,
+    "created_at": 1642842372,
+    "text": "Mittagsschlaf!",
+    "owner": "41c198e9bfd14d8bb3bd53029247d922ac23dd9fee470255bdeb2bf21dbf9cc9",
+    "likes_count": 5,
+    "answers": [
+      {
+        "id": 17926792151039321,
+        "created_at": 1642842906,
+        "text": "@lauraflorentine Das klingt verlockend, wobei ich nicht weiß, ob ich mich bei diesen nervigen Kopfschmerzen wirklich ausruhen kann. Vielleicht versuche ich es dennoch, da mir Schlaf und Ruhe in letzter Zeit doch fehlen.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 17927279267032750,
+    "created_at": 1642842350,
+    "text": "Liebe Sophie. Außer einem starken Kaffee oder einem Spaziergang im Wald fällt mir nichts gegen Kopfschmerzen ein... 😔 Ich hoffe sehr, dass es dir schnell wieder besser geht! Liebe Grüße Gwen Glöckchen 😀",
+    "owner": "a5a97aaceead0dd6b4da7f720ad6fe2dac46735f738d08b78610bfab59676a8d",
+    "likes_count": 10,
+    "answers": [
+      {
+        "id": 17969548303506468,
+        "created_at": 1642842499,
+        "text": "@gwen_gloeckchen und nbissel Zitrone dazu ... 🙏🏻🙏🏾🙏",
+        "owner": "b108c7a1f0c1c4b28dfaff627ac74a7a1ec2cbf1482c2f85d7ff7910fda1caeb",
+        "likes_count": 3
+      },
+      {
+        "id": 17926555844071990,
+        "created_at": 1642843886,
+        "text": "@sami.happy.in.berlin Ach ja, wegen dem Vitamin C! Danke,  hatt ich glatt vergessen! Schönes Wochenende dir!",
+        "owner": "a5a97aaceead0dd6b4da7f720ad6fe2dac46735f738d08b78610bfab59676a8d",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17927526703917414,
+    "created_at": 1642842235,
+    "text": "Wasser und frische Luft Augen zu machen durch die Nase ein und den den Mund ausatmen❤️",
+    "owner": "28fddc3c573201a1d2e147f7c5c1d87efb112bdeb2b514f6d7a5f7c9810d1ff1",
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 17933189797930709,
+        "created_at": 1642843009,
+        "text": "@trollmutter_ Ein kleiner Spaziergang so ganz für mich allein klingt wunderbar. Die kalte Januarluft sorgt hoffentlich wieder für Ruhe und Gelassenheit in meinem Kopf.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 11
+      }
+    ]
+  },
+  {
+    "id": 18143565625242971,
+    "created_at": 1642842113,
+    "text": "Kaffee mit Zitronensaft und Zucker.... wundermittel ❤️",
+    "owner": "cf7c84008a7e50d73acae7af8e5896c7237881777482a165611ce8b2d47ad9dc",
+    "likes_count": 10,
+    "answers": [
+      {
+        "id": 18221154895128674,
+        "created_at": 1642879881,
+        "text": "@bilderbuch_mami cool - dann probiere ich das sicher das nächste ml aus - sicher eine Alternative zu Aspirin und Co 🤗",
+        "owner": "0fc530f69d9f9d030a11c9dce32ea3427778e38ffa3561787ab1b206e0bb3b7f",
+        "likes_count": 0
+      },
+      {
+        "id": 18209513602184953,
+        "created_at": 1642849411,
+        "text": "@bilderbuch_mami Das ist mir auch schon empfohlen worden, hab's aber noch nie ausprobiert.☕🍋",
+        "owner": "09dcb7cbee3d00f461e70b91b677d2cb992a4860c74caa8d396a2dd9261339d0",
+        "likes_count": 1
+      },
+      {
+        "id": 18145874524220847,
+        "created_at": 1642843601,
+        "text": "@bilderbuch_mami auch an zitronen eher nicht.",
+        "owner": "df744e7290d192a78c6cad4260037c14ff3a7a2be3a8f3285d1b4938f7b2987c",
+        "likes_count": 3
+      },
+      {
+        "id": 17981293198456069,
+        "created_at": 1642882904,
+        "text": "@anja_oblosb gegen migräne hilft nix so wirklich. Jedenfalls bei mir. Hilft nur gegen leichte Kopfschmerzen",
+        "owner": "cf7c84008a7e50d73acae7af8e5896c7237881777482a165611ce8b2d47ad9dc",
+        "likes_count": 1
+      },
+      {
+        "id": 17956968685529174,
+        "created_at": 1642875224,
+        "text": "@anja_oblosb und hat es was gebracht?",
+        "owner": "cf7c84008a7e50d73acae7af8e5896c7237881777482a165611ce8b2d47ad9dc",
+        "likes_count": 0
+      },
+      {
+        "id": 17955144187606549,
+        "created_at": 1642882110,
+        "text": "@bilderbuch_mami Danke für die Nachfrage. Nein, leider nicht😧...musste schließlich doch eine Migränetablette nehmen. Jetzt geht's mir aber wieder besser. 🙂",
+        "owner": "09dcb7cbee3d00f461e70b91b677d2cb992a4860c74caa8d396a2dd9261339d0",
+        "likes_count": 0
+      },
+      {
+        "id": 17935746895795691,
+        "created_at": 1642853340,
+        "text": "@bilderbuch_mami Ich versuche es jetzt mal, habe heute nämlich wieder leichte Kopfschmerzen.",
+        "owner": "09dcb7cbee3d00f461e70b91b677d2cb992a4860c74caa8d396a2dd9261339d0",
+        "likes_count": 1
+      },
+      {
+        "id": 17927946095014574,
+        "created_at": 1642851437,
+        "text": "@anja_oblosb hilft bei mir echt super. Nur zu empfehlen",
+        "owner": "cf7c84008a7e50d73acae7af8e5896c7237881777482a165611ce8b2d47ad9dc",
+        "likes_count": 1
+      },
+      {
+        "id": 17921861453157922,
+        "created_at": 1642875207,
+        "text": "@vanni_chrissi schon nen guten Schuss. Ich mach immer halbes Schnapsglas auf ca. 200 ml  espresso und dann eben noch Zucker dass man es trinken kann ohne schütteln. Koffein in Verbindung mit vitamin C wirkt super",
+        "owner": "cf7c84008a7e50d73acae7af8e5896c7237881777482a165611ce8b2d47ad9dc",
+        "likes_count": 1
+      },
+      {
+        "id": 17910692885200706,
+        "created_at": 1642844571,
+        "text": "@bilderbuch_mami oder Cola hilft super für den Kreislauf und  Kopfschmerzen, aber das hatten sie damals auch nicht 😃",
+        "owner": "32af06c8faed2f9339895d3be6564edd9abefd1d283520e7f14844720245e99f",
+        "likes_count": 0
+      },
+      {
+        "id": 17896484189440067,
+        "created_at": 1642843579,
+        "text": "@bilderbuch_mami ich glaube an Kaffee kommt man in kriegszeiten nicht so einfach... 🤔",
+        "owner": "df744e7290d192a78c6cad4260037c14ff3a7a2be3a8f3285d1b4938f7b2987c",
+        "likes_count": 3
+      },
+      {
+        "id": 17850820514689204,
+        "created_at": 1642873065,
+        "text": "@bilderbuch_mami das hilft gg Kopfschmerzen??? 😮 Wie viel Zitronensaft gibt man denn da in den Kaffee?",
+        "owner": "0fc530f69d9f9d030a11c9dce32ea3427778e38ffa3561787ab1b206e0bb3b7f",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17926644038039573,
+    "created_at": 1642842027,
+    "text": "#TeamSoffer Sophie Scholl steht zu dem Zeitpunkt im Jahr 1943 stark unter Druck und leidet unter Kopfschmerzen. Am 19.1. Schreibt sie in einem Brief an Otl Aicher: „Ich bin gerade nicht beieinander, etwas, das mir bis jetzt vollständig unbekannt war. Meine Gedanken springen hierhin und dahin, ohne daß ich richtig über sie gebieten könnte, ich habe ziemliche Kopfschmerzen, das mag schuld daran tragen, wenigstens einen Teil. Doch wird diese Krankheit bald vorüber sein, ich muß selbst Geduld mit mir haben.” Scholl/Scholl: Briefe und Aufzeichnungen, S. 286.",
+    "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+    "likes_count": 269,
+    "answers": [
+      {
+        "id": 18256182952079535,
+        "created_at": 1642862437,
+        "text": "@heikegumz Soeben schaute ich nach und las bei Wikipedia, dass Pervitin, das in dieser Zeit weit verbreitet war, nicht nur Müdigkeit, sondern auch Angstgefühle verhinderte. Auch diente es bei Soldaten an der Front der \"Steigerung des Selbstvertrauens\". Wenn Hans und Sophie so etwas konsumiert hätten, - das könnte passen und einiges teilweise erklären, denke ich. Was sicher ist: Schlafmangel, Anspannung, Angst und Euphorie im Wechsel...",
+        "owner": "7eef12d63ad4310ad2e33f1b23f116994eaeaf45949caba964bb8aea9130fb40",
+        "likes_count": 12
+      },
+      {
+        "id": 17937719986867405,
+        "created_at": 1642843985,
+        "text": "@ichbinsophiescholl Möglicherweise standen die Kopfschmerzen, von denen Sophie hier berichtet sowie die innere Unruhe, von der sie in weiteren schreibt, nicht nur in Zusammenhang mit Schlafmangel, sondern auch der Einnahme von Amphetaminen (z.B. Pervitin). Manfred Eickemeyer berichtet nach dem Krieg von Aussagen Hans Scholls, er würde sich und seiner Schwester Spritzen geben, um wachbleiben zu können.",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 37
+      }
+    ]
+  }
+]

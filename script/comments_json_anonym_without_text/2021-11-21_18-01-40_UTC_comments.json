@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17893350221347422,
+    "created_at": 1637584131,
+    
+    "owner": {
+      "id": "q2d1BE228deFulVChK4G2g==",
+      "username": "Wo1KyItzd5OyPJvgK4hOhQ=="
+    },
+    "likes_count": 5,
+    "answers": []
+  },
+  {
+    "id": 17913267710166343,
+    "created_at": 1637521289,
+    
+    "owner": {
+      "id": "TDyJzXAewGUfmkXqRqH3Cg==",
+      "username": "iC_963RHjPAZCaYyLXUhbA=="
+    },
+    "likes_count": 2,
+    "answers": [
+      {
+        "id": 18176672746082269,
+        "created_at": 1637523671,
+        
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 6
+      },
+      {
+        "id": 17948141602605808,
+        "created_at": 1637568215,
+        
+        "owner": {
+          "id": "3W3u797RFAMi2jy9PWfsyw==",
+          "username": "rWW9geJBzAUmEVaqJ6ihiQ=="
+        },
+        "likes_count": 6
+      }
+    ]
+  },
+  {
+    "id": 17935139452762892,
+    "created_at": 1637519886,
+    
+    "owner": {
+      "id": "EWv-eXvTWOtLHIhtaShuyQ==",
+      "username": "g_uOWBMXxzapapRaDQh7pg=="
+    },
+    "likes_count": 2,
+    "answers": []
+  }
+]

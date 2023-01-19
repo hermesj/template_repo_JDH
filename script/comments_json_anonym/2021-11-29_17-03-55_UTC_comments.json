@@ -1,0 +1,604 @@
+[
+  {
+    "id": 18104690305283294,
+    "created_at": 1640177656,
+    "text": "stark hans",
+    "owner": {
+      "id": "YHWPt9KzYaGN3a98mGqsWw==",
+      "username": "qJLECFDHGCmYCE00NW9s3A=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17902762850497910,
+    "created_at": 1638774981,
+    "text": "@6Boq4fOPBW6aRAGTMUdYaQ==",
+    "owner": {
+      "id": "cN6-wKg7KObB_0lcY4eY8A==",
+      "username": "58RTlqHaT_WgNlzJPq-WNg=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17920280441069036,
+    "created_at": 1638373067,
+    "text": "Lass dich nicht einschüchtern - auch er kocht nur mit Wasser und für euren Einsatz kommt es darauf an: Herz, Verstand und Mut zu haben - und das hast du genauso wie dein Bruder und Professor Huber!",
+    "owner": {
+      "id": "8d2gvFL7S2RqHANXkD8o2Q==",
+      "username": "IaalJaODJWqEHXn4rZk4vw=="
+    },
+    "likes_count": 7,
+    "answers": [
+      {
+        "id": 18102907231282749,
+        "created_at": 1638373466,
+        "text": "@IaalJaODJWqEHXn4rZk4vw== Danke für den Zuspruch! Du hast recht, ich darf mich nicht von seiner akademischen Aura einschüchtern lassen. Ich respektiere ihn aber sehr und hoffe, dass das auf Gegenseitigkeit beruhen kann.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17903116190344944,
+    "created_at": 1638278230,
+    "text": "Wie ist es überhaupt dazu gekommen, dass er nun ein teil der weißen rose ist. Es ist ja sehr geheim",
+    "owner": {
+      "id": "5KnwgGLinp1u_gqX3j_-PA==",
+      "username": "8jaq1-eVf5gUssK07wG7Bw=="
+    },
+    "likes_count": 2,
+    "answers": [
+      {
+        "id": 17903961314483408,
+        "created_at": 1638283471,
+        "text": "@8jaq1-eVf5gUssK07wG7Bw== Alex und Hans haben Kontakt zu ihm gesucht. Aus dem Inhalt von Professor Hubers Vorlesungen konnte man erahnen, dass wir uns in unserem Denken sehr ähneln...",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 6
+      }
+    ]
+  },
+  {
+    "id": 18013593796358735,
+    "created_at": 1638274740,
+    "text": "Interessant was diese Seite mit mir macht. Sie gibt mir das Gefühl das Sophie Scholl am Ende nur eine junge Frau war, die fühlte wie ich. Hätten wir in der selben Zeit gelebt hätten wir Freunde werden können. Ich weiß dass hier viele \"Lücken\", in der Geschichte von Sophie, durch Künstlerische Freiheit ausgefüllt wurden. Dennoch ist die Figur der Geschichte jetzt für mich viel greifbarer als aus dem Geschichtsunterricht der Schule.  Und ich hoffe der Beitrag am 22.2  wird nicht zu heftig.",
+    "owner": {
+      "id": "P1_HEhm6_toYzR9Bprua-g==",
+      "username": "Hl3R4QUBYJEMJ7QFVEXfCg=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18266891563033988,
+    "created_at": 1638273566,
+    "text": "Hat es Professor Huber, diese schwierige Zeit überlebt?",
+    "owner": {
+      "id": "TDyJzXAewGUfmkXqRqH3Cg==",
+      "username": "iC_963RHjPAZCaYyLXUhbA=="
+    },
+    "likes_count": 5,
+    "answers": [
+      {
+        "id": 18182484943155849,
+        "created_at": 1638274758,
+        "text": "@hib4mKmHA-vgwtwb0Q_04A== Schlimm 😢",
+        "owner": {
+          "id": "TDyJzXAewGUfmkXqRqH3Cg==",
+          "username": "iC_963RHjPAZCaYyLXUhbA=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17920167671041598,
+        "created_at": 1638304555,
+        "text": "Was haben sich die Nazis eigentlich gedacht , sie waren ja eigentlich auch nur Menschen, auch wenn man das nicht unbedingt glauben kann ...😢",
+        "owner": {
+          "id": "y_fyZPcuNdYlcFFdvYovUA==",
+          "username": "To4GovpvYheARhK2cEFj2g=="
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17897109830443464,
+        "created_at": 1638273937,
+        "text": "@iC_963RHjPAZCaYyLXUhbA== #TeamSoffer Das Volksgerichtshof verurteilte am 19. April 1943 Kurt Huber gemeinsam mit Alexander Schmorell und Willi Graf zum Tode. Am 13. Juli 1943 wurde er in Stadelheim durch das Fallbeil hingerichtet.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 12
+      }
+    ]
+  },
+  {
+    "id": 17894314538350568,
+    "created_at": 1638259246,
+    "text": "Es kann niemals schaden, wenn ihr auch eure Professoren auf eure Seite bekommt! Und er wird dich sicher schnell ernst nehmen, sobald er deine  Gedanken und Ansichten kennt 😊",
+    "owner": {
+      "id": "ify18xh1e8ju9GsmxIKqtw==",
+      "username": "4OeZsH6jQ-drWUSUsAls9g=="
+    },
+    "likes_count": 7,
+    "answers": [
+      {
+        "id": 17931968272859487,
+        "created_at": 1638263452,
+        "text": "@4OeZsH6jQ-drWUSUsAls9g== Hoffentlich kann er unsere Texte noch verfeinern...",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 17991663355402430,
+    "created_at": 1638228723,
+    "text": "❤️",
+    "owner": {
+      "id": "VTTUMAWV-HeMVnnrnMuZdw==",
+      "username": "IwvAm4WLCDn_y2bBjvk3gg=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17879447360593411,
+    "created_at": 1638222406,
+    "text": "Man weiß wie das ganze ausgeht und hofft doch, es wäre anders. Vorallem weil die Reihe dann auch vorbei ist:( Ein großes Lob an das Team!",
+    "owner": {
+      "id": "dSvwX-feKl3JZy1X-UTe9g==",
+      "username": "0xDSQAI-oBmDzLEzJNCXpQ=="
+    },
+    "likes_count": 6,
+    "answers": []
+  },
+  {
+    "id": 18154491265202433,
+    "created_at": 1638220699,
+    "text": "Leibniz fand ich furchtbar zu lesen. Musste mal ein Seminar zu dem mitmachen. War immer froh, wenn die Veranstaltung vorbei war.",
+    "owner": {
+      "id": "TVA-ZrHCmrv1LUBeSdjssw==",
+      "username": "Za0sekGoomA_Wnck5sF5xg=="
+    },
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17931198682754260,
+        "created_at": 1638268779,
+        "text": "@Za0sekGoomA_Wnck5sF5xg== hast du eine Idee was von Leibniz so die weiße rose beeindruckt hat. Oder ging es gar nicht um Leibniz sondern nur um Huber?",
+        "owner": {
+          "id": "MJUHcq3d7NeGt7bOyDI9WA==",
+          "username": "_3jh0wrg1egfG9E6qu7Fqg=="
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17920136711030832,
+        "created_at": 1638263440,
+        "text": "@Za0sekGoomA_Wnck5sF5xg== Es ging bei den Vorlesungen wahrscheinlich nicht um Leibniz selbst, sondern um Hubers Seitenhiebe 😅",
+        "owner": {
+          "id": "W_cWctkaUGyE670CzFanJQ==",
+          "username": "PhcL3suZ7R1Wri6_Ndqrug=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17923746799966490,
+    "created_at": 1638219034,
+    "text": "Ich denke, das ist eine sehr gute Idee. Er wird euch sicherlich gut unterstützen können.",
+    "owner": {
+      "id": "vTRDXGPd0W7r6hrYMHitfw==",
+      "username": "w10eisZ84fNGsnFYBy8yZA=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17997153310388489,
+    "created_at": 1638218652,
+    "text": "Stell dein Licht nicht unter den Scheffel! Du weißt was gut und richtig ist und wofür es lohnt zu kämpfen…..egal ob du über tief-philosophisches erlesenes Wissen verfügst- du weißt einfach aus deinem inneren heraus, wofür die „weiße Rose“ kämpfen muss und warum das so wichtig ist. Du mutige junge Frau bist genau richtig, wie du bist!",
+    "owner": {
+      "id": "alEK2OA9gdTyHkk4yw4UAg==",
+      "username": "8N9ry78wp8dq7pCRO6Hdfg=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17919368675094023,
+    "created_at": 1638213889,
+    "text": "Liebe Sophie. Er mag einschüchternd wirken, doch die WEISSE ROSE war eure Idee. Versteck dich nicht, nur weil du denkst, nicht ernst genommen zu werden. Vielleicht braucht ihr einen Moment um euch aneinander zu gewöhnen. Du an ihm und er an dich. Vielleicht hat er gute Ideen,  wie ihr weiter machen könnt... Ich denke an euch und wünsche euch allen eine schöne Adventszeit! 🕯🌟🙋🏾‍♀️💕👍🏾",
+    "owner": {
+      "id": "10NzvMLnjbhcGmhbVLLhXA==",
+      "username": "83mLr_m-s48T9p1rlukZmg=="
+    },
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17856150371659520,
+    "created_at": 1638212622,
+    "text": "Was war  so spannend an den Leibniz Vorlesungen?",
+    "owner": {
+      "id": "MJUHcq3d7NeGt7bOyDI9WA==",
+      "username": "_3jh0wrg1egfG9E6qu7Fqg=="
+    },
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 18255250978071578,
+        "created_at": 1638265423,
+        "text": "@_3jh0wrg1egfG9E6qu7Fqg== Professor Huber betont immer wieder, welchen staatsbürgerlichen Pflichten Intellektuelle nachkommen sollten... Das gibt uns immer sehr zu denken.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17920137758042729,
+        "created_at": 1638263347,
+        "text": "@_3jh0wrg1egfG9E6qu7Fqg== Guck mal den Weiße Rose Film von 1982. Wenn sie so waren, fände ich es auch genial.",
+        "owner": {
+          "id": "W_cWctkaUGyE670CzFanJQ==",
+          "username": "PhcL3suZ7R1Wri6_Ndqrug=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17904305234483083,
+    "created_at": 1638209909,
+    "text": "Nein, Familienväter sollte man nicht gefährden, ich finde auch Probst hätte nicht beteiligt werden dürfen",
+    "owner": {
+      "id": "Eh-rRXT-XQYcUfaxV8MLTg==",
+      "username": "VEtOP2dleuAlRTgF_wVQdQ=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18266627116044288,
+    "created_at": 1638209209,
+    "text": "Also ganz ehrlich rede mal mit Hans. Du sollst genauso ernst genommen werden wie jeder anderer auch. Egal wer man ist/Geschlecht man hat und versuche von Anfang an klar zu stellen das du keine Hausfrau bist!",
+    "owner": {
+      "id": "MpvPRHztKYpD01eXjHXZoQ==",
+      "username": "YbRCr_tpF6g9Z04s44kk5A=="
+    },
+    "likes_count": 8,
+    "answers": []
+  },
+  {
+    "id": 17892463274401633,
+    "created_at": 1638207948,
+    "text": "Ein älterer Mann, kann aber vermutlich besser auf dich Rücksicht nehmen, Sophie.\nMehr Lebenserfahrung.",
+    "owner": {
+      "id": "0JGy1vW9l58a9uf5oEdpLw==",
+      "username": "kaLhFxgcO_vBDDvxpYIEDw=="
+    },
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 18112657351266077,
+        "created_at": 1638211730,
+        "text": "@n88DnR5sgcqOBbyPGR5OWw== dass du für den Professor keine Brote schmieren musst.🙂",
+        "owner": {
+          "id": "0JGy1vW9l58a9uf5oEdpLw==",
+          "username": "kaLhFxgcO_vBDDvxpYIEDw=="
+        },
+        "likes_count": 14
+      },
+      {
+        "id": 17908125020324049,
+        "created_at": 1638211641,
+        "text": "@kaLhFxgcO_vBDDvxpYIEDw== Wie meinst du das?",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 4
+      }
+    ]
+  },
+  {
+    "id": 17936332915758986,
+    "created_at": 1638207945,
+    "text": "ja, so seid ihr generationenübergreifend aufgestellt, würde man heute sagen",
+    "owner": {
+      "id": "U10VgMa8UIMQ8Pd1LAWFRw==",
+      "username": "T_ui9ZClDxbmwUtmj3H76A=="
+    },
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 17921454149016331,
+        "created_at": 1638211566,
+        "text": "@T_ui9ZClDxbmwUtmj3H76A== Vielleicht wird er Dinge im Blick behalten, die uns entgehen und umgekehrt können wir ihn mit unserer Sichtweise bereichern!",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 17
+      }
+    ]
+  },
+  {
+    "id": 17916253229009566,
+    "created_at": 1638207894,
+    "text": "Vielleicht weil Hans ein Mann ist wird er sofort ernst genommen?",
+    "owner": {
+      "id": "te0skmfhjuzEEODHrePjNg==",
+      "username": "ML76PwKuRj4z5Q4VNQvs6Q=="
+    },
+    "likes_count": 23,
+    "answers": [
+      {
+        "id": 18209875723108546,
+        "created_at": 1638354988,
+        "text": "@hib4mKmHA-vgwtwb0Q_04A== natürlich hat Hans Expertise, aber er hat schon den Vorteil, dass ihm als weisser Mann eher zugehört wird.",
+        "owner": {
+          "id": "frEyc7mIc6MHlTOLyvcAPQ==",
+          "username": "P9FNPbjJ9U01byoYu6aEnA=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17914811315143343,
+        "created_at": 1638211306,
+        "text": "@ML76PwKuRj4z5Q4VNQvs6Q== Das ist möglich! Aber die Expertise darf nicht einfach an Geschlecht gekoppelt sein...",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 43
+      }
+    ]
+  },
+  {
+    "id": 17890798307426534,
+    "created_at": 1638207532,
+    "text": "Sophie, die Spielchen der Männer musst du ignorieren. Sie plustern sich gerne mal auf. Einfach frech dazwischen reden. Die sind auch nicht schlauer als du (außer  Prof Huber vielleicht 😍)",
+    "owner": {
+      "id": "vURGFIYFpJmgF9iQ0S2AlQ==",
+      "username": "j1OphD1XZ8j0UYmQujZwwA=="
+    },
+    "likes_count": 6,
+    "answers": []
+  },
+  {
+    "id": 17848872314679393,
+    "created_at": 1638207423,
+    "text": "Was ist aus Prof Huber geworden?",
+    "owner": {
+      "id": "vURGFIYFpJmgF9iQ0S2AlQ==",
+      "username": "j1OphD1XZ8j0UYmQujZwwA=="
+    },
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 18104597968278979,
+        "created_at": 1638209711,
+        "text": "@j1OphD1XZ8j0UYmQujZwwA== Er wurde im Jahr 1943 nach dem zweiten Prozess gegen die Weiße Rose ebenfalls hingerichtet, genau wie Graf und Schmorell",
+        "owner": {
+          "id": "Eh-rRXT-XQYcUfaxV8MLTg==",
+          "username": "VEtOP2dleuAlRTgF_wVQdQ=="
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17936242654748661,
+        "created_at": 1638210637,
+        "text": "@j1OphD1XZ8j0UYmQujZwwA== #TeamSoffer Kurt Huber wurde am 19. April 1943 gemeinsam mit Alexander Schmorell und Willi Graf zum Tode verurteilt. Am 13. Juli 1943 wurde er durch das Fallbeil hingerichtet.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 12
+      },
+      {
+        "id": 17931283714889356,
+        "created_at": 1638207557,
+        "text": "@7oZwGY8KTPNIfsMtKBPNOQ== 😢 danke",
+        "owner": {
+          "id": "vURGFIYFpJmgF9iQ0S2AlQ==",
+          "username": "j1OphD1XZ8j0UYmQujZwwA=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17889984197455806,
+        "created_at": 1638207483,
+        "text": "@j1OphD1XZ8j0UYmQujZwwA== er wurde ebenfalls hingerichtet",
+        "owner": {
+          "id": "mQee61w3ipzm9T6dirjhbw==",
+          "username": "7oZwGY8KTPNIfsMtKBPNOQ=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 18182335819158815,
+    "created_at": 1638206939,
+    "text": "Ja, find ich gut. Das bringt der Gruppe mehr Zulauf und den Flugblättern noch mehr Tiefe.",
+    "owner": {
+      "id": "2tai7EZtAqQYGyREZyMOOQ==",
+      "username": "dtdukWwSonI5k5cTnRcSsA=="
+    },
+    "likes_count": 2,
+    "answers": [
+      {
+        "id": 18037497031312901,
+        "created_at": 1638211203,
+        "text": "@dtdukWwSonI5k5cTnRcSsA== Sicherlich hast du Recht, doch brauchen wir als Gruppe mehr Zulauf? Das macht es für die bestehenden Mitglieder gefährlicher, oder?",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17888294897467466,
+        "created_at": 1638211549,
+        "text": "@hib4mKmHA-vgwtwb0Q_04A== ja, stimmt. Die sichere Verbreitung ist noch wichtiger.",
+        "owner": {
+          "id": "2tai7EZtAqQYGyREZyMOOQ==",
+          "username": "dtdukWwSonI5k5cTnRcSsA=="
+        },
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 18267133615010405,
+    "created_at": 1638206837,
+    "text": "Ich denke, er ist eine große Bereicherung für euch - uns wenn er weise ist, weiß er auch, dass er von eurem jugendlichen Enthusiasmus und eurer Energie sehr profitieren wird. Ich bin sicher, ihr inspiriert euch gegenseitig. Und liebe Sophie: Du hast in deinen jungen Jahren schon so viele gute und tiefgreifende Gedanken - da musst du dein Licht gewiss nicht unter den Scheffel stellen!",
+    "owner": {
+      "id": "pfjJ0UqlokM_ptYrayU3KQ==",
+      "username": "D6BishsG2-D58e-J58-DIg=="
+    },
+    "likes_count": 29,
+    "answers": []
+  },
+  {
+    "id": 17907654158159167,
+    "created_at": 1638206303,
+    "text": "Gibt es Aufzeichnungen darüber,ob sich Sophie und Hans bewusst waren was ihnen droht, sollten sie auffliegen?",
+    "owner": {
+      "id": "PTyJugb6ZrP7ksK8UptW9A==",
+      "username": "aUeN5IB71Aqn3f0ofTlsuA=="
+    },
+    "likes_count": 11,
+    "answers": [
+      {
+        "id": 17942438458661153,
+        "created_at": 1638263109,
+        "text": "@aUeN5IB71Aqn3f0ofTlsuA== Weshalb haben wohl die Meisten still gehalten? Man kannte die Konsequenzen",
+        "owner": {
+          "id": "W_cWctkaUGyE670CzFanJQ==",
+          "username": "PhcL3suZ7R1Wri6_Ndqrug=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17931024451755160,
+        "created_at": 1638213558,
+        "text": "@aUeN5IB71Aqn3f0ofTlsuA== Laut der Biografin Maren Gottschalk war sich Sophie der möglichen Konsequenzen bewusst und hat sich für den Weg des Widerstandes mit allen Risiken entschieden. Ihr eigenes Sterben hat sie in ihren Überlegungen einkalkuliert. Nachzulesen in Gottschalk: Wie schwer ein Menschenleben wiegt, S. 254f.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 31
+      }
+    ]
+  },
+  {
+    "id": 18144816520209762,
+    "created_at": 1638205996,
+    "text": "Ich denke es ist eine gute Idee!\nJe vielfältiger die Mitglieder sind, desto mehr wissen ist vorhanden und man hat einen stärkeren Hintergrund an Menschen aus verschiedenen Richtungen/Gewerben die man bestimmt mal positiv nutzen kann:)",
+    "owner": {
+      "id": "Dz0RYahVLbQwxWwmxwzFfA==",
+      "username": "nEkOgD35qyW4c74OHn2Tkg=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17866668893597760,
+    "created_at": 1638205968,
+    "text": "Wurde er auch verurteilt?",
+    "owner": {
+      "id": "PTyJugb6ZrP7ksK8UptW9A==",
+      "username": "aUeN5IB71Aqn3f0ofTlsuA=="
+    },
+    "likes_count": 4,
+    "answers": [
+      {
+        "id": 18193313152193824,
+        "created_at": 1638209812,
+        "text": "@aUeN5IB71Aqn3f0ofTlsuA== ja er wurde  1943 ebenfalls hingerichtet, nach dem zweiten Prozess, genau wie Graf und Schmorell 😢",
+        "owner": {
+          "id": "Eh-rRXT-XQYcUfaxV8MLTg==",
+          "username": "VEtOP2dleuAlRTgF_wVQdQ=="
+        },
+        "likes_count": 6
+      },
+      {
+        "id": 17931155161767497,
+        "created_at": 1638206214,
+        "text": "@aUeN5IB71Aqn3f0ofTlsuA== ja. Er wurde ebenfalls hingerichtet.",
+        "owner": {
+          "id": "J7058MTSwnseCSI35b2ctA==",
+          "username": "pqxz0lP3pydBXU8mNtzwPA=="
+        },
+        "likes_count": 10
+      },
+      {
+        "id": 17910242564214946,
+        "created_at": 1638210827,
+        "text": "@VEtOP2dleuAlRTgF_wVQdQ== @tisu_aus_dingenskirchen #TeamSoffer Das Volksgerichtshof verurteilte am 19. April 1943 Kurt Huber gemeinsam mit Alexander Schmorell und Willi Graf zum Tode. Am 13. Juli 1943 wurde er in Stadelheim durch das Fallbeil hingerichtet.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 31
+      },
+      {
+        "id": 17848791995680031,
+        "created_at": 1638237316,
+        "text": "@hib4mKmHA-vgwtwb0Q_04A== das aber echt eine hinterwäldlerische Methode 😱 da kann man ja nur hoffen das es scharf war.. grausam sowas",
+        "owner": {
+          "id": "5qjSEJnzBBro9g2SDx5LXg==",
+          "username": "YzAfA_FHdaVdCqejKuDsPg=="
+        },
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17891204786408901,
+    "created_at": 1638205793,
+    "text": "@hib4mKmHA-vgwtwb0Q_04A== Kleiner Tipp Herr Professor Huber liebt besonders das Volksmusikstück „Boareibl Jodler“ Vielleicht mal drauf ansprechen",
+    "owner": {
+      "id": "yv1gyhvrmVTHdglKh2iQAw==",
+      "username": "N_jDMZDZ1hQexff6Uciv7w=="
+    },
+    "likes_count": 4,
+    "answers": []
+  },
+  {
+    "id": 17863517516609980,
+    "created_at": 1638205456,
+    "text": "#TeamSoffer Professor Kurt Huber lehrte an der Universität München Philosophie, Musikpsychologie und Volksliedkunde. Besonders seine Leibniz-Vorlesung hatte es den Mitgliedern der Weißen Rose angetan.⁠\nEr war gegen den Kommunismus und hielt den Aufstieg der Nationalsozialisten zuerst für gut, entwickelte sich dann aber zum Gegner.⁠\nKurt Huber stieß Ende 1942 als letztes zur Gruppe hinzu. Wann genau, ist nicht bekannt. Mehr dazu in Gottschalk, Maren: Wie schwer ein Menschenleben wiegt, S.599 und 629 (Epub).",
+    "owner": {
+      "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+      "username": "hib4mKmHA-vgwtwb0Q_04A=="
+    },
+    "likes_count": 219,
+    "answers": [
+      {
+        "id": 17961241669478012,
+        "created_at": 1638211634,
+        "text": "@hib4mKmHA-vgwtwb0Q_04A== Prof. Huber wurde ja dann auch hingerichtet..😢",
+        "owner": {
+          "id": "2tai7EZtAqQYGyREZyMOOQ==",
+          "username": "dtdukWwSonI5k5cTnRcSsA=="
+        },
+        "likes_count": 3
+      }
+    ]
+  }
+]

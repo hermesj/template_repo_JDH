@@ -1,0 +1,984 @@
+[
+  {
+    "id": 17916800873136546,
+    "created_at": 1644040260,
+    "text": "Mein Opa hat damals hin und wieder solche Lebensmittelkarten gefälscht, damit seine Familie etwas mehr zu Essen hatte. Er war Vermessungsingenieur und damals wurde ja noch alles per Hand gezeichnet und geschrieben und sah dennoch aus wie gedruckt. Dadurch hatte er das Wissen, Material und die Fähigkeit, um händisch perfekte Kopien solcher Karten anzufertigen.",
+    "owner": "c6de506260da3bbc02565fa6d8cf1189cfb17376fdd938404e7ab83c0e0b61a0",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 18025868443344215,
+    "created_at": 1643952142,
+    "text": "Bring die Kartoffelschalen zu jemanden mit Hühnern (gekocht tolles Futter) u bekomm dafür ein 🥚",
+    "owner": "a544109740ee0f00c9b18ff2126f81704b70d15932e5b8573d418cd333a7d78e",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17965319005527639,
+    "created_at": 1643929279,
+    "text": "Tortilla de patatas auf jeden fall",
+    "owner": "25481e33f4fe8482e27fadc3a3d905f78eccccf9a99b7a6589d1246075807700",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17957751781558428,
+    "created_at": 1643876084,
+    "text": "❤️",
+    "owner": "9eef41b7bd598bf1910b75cd97debe8dcea8630514bdb01a3794777897a16c25",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18201163555181803,
+    "created_at": 1643871384,
+    "text": "Wie wäre es mit einer spanischen Tortilla?",
+    "owner": "5c84fee5477521cc948c5978fee2e1cd7a81f192eba3d10b7dada89c6557bce0",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17933486107942889,
+    "created_at": 1643870786,
+    "text": "Gratin! ☺️",
+    "owner": "8d818a6c6920f2b8b81f86883e8c0e8e2c1f2027a7154f5b74eedbc09d135a79",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17853559583704438,
+    "created_at": 1643868154,
+    "text": "Kartoffelbrei mit Sahne❤️ Omelette mit Zwiebeln ❤️",
+    "owner": "4c444c591462d70cb16466fa780a728ef89e6002bbd7bc70d8b6feaafe60a170",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17908310345290273,
+    "created_at": 1643852537,
+    "text": "Lecker Bauernfrühstück 😋",
+    "owner": "0d15adfd3138dec5da0fbc28f7f0c5be41456dd1f0a8bd815a04a242ef8cee8e",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17854543301684890,
+    "created_at": 1643836498,
+    "text": "Dibbelabbes 🤗",
+    "owner": "bca56050278fea143a80988d4ad2b241c04f286b73758135177fb3c87b32643c",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17909531807468426,
+    "created_at": 1643833269,
+    "text": "Kartoffel gratin 😍",
+    "owner": "37fc7fea2ea0df7fd23a48881be16b6e456baa2e198beabe9c30cf779a6bd0e3",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17930502229998522,
+    "created_at": 1643833065,
+    "text": "Was wir wohl in 20 Tagen sehen werden … 🥺🕊",
+    "owner": "c73a5139d09fe4d62595410965c6eedbcc572cf9fb4d8fc3739286146ccfc4ea",
+    "likes_count": 6,
+    "answers": []
+  },
+  {
+    "id": 17921108306283132,
+    "created_at": 1643832250,
+    "text": "Hey Sophie! Ich wollte mich nur bei dir bedanken, dass du uns in den letzten Monaten so viel an deinem Leben hast teilhaben lassen. Bei jedem neuen Post und jeder neuen Story von dir fiebere ich sehr mit. Ich wünsche mir, dass du weißt, dass du für viele hier eine große Inspiration bist ♡ Danke für alles!",
+    "owner": "61dd3a432bb69e22aa78ab02d317a027b6c9f1ff38c57e9f28c8aa546a731350",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17911029329494972,
+    "created_at": 1643831387,
+    "text": "FCK se Nazi Empire ! Stay Strong !",
+    "owner": "ac1d4b259c43d66d16a891e53067ce4e2aaa671c9df63d5d159ee43af67d81bb",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17955382144613349,
+    "created_at": 1643829784,
+    "text": "Wie sich doch Lebensumstände und Gedanken ähneln. In diesen ersten Februartagen des Jahres 1943 schrieb meine Mutter (damals 21 und in Brüssel als Wehrmachtshelferin dienstverpflichtet) an meine Oma in Deutschland: \n\"Hast Du gelesen, Rolf X. aus der Friedr.-Wilhelm-Str. ist mit 19 Jahren gefallen. Wie viele Bekannte sind nun schon gefallen und wie viele werden noch folgen? Dieser Krieg wird immer furchtbarer. Wie soll das enden??? ... Mir fällt eben ein altes Uhrenarmband in die Hände und Du brauchtest doch eines für Deine Armbanduhr. Es ist zwar schon etwas geflickt, aber ich glaube, Du kannst es gebrauchen. ... Mein Muttilein, heute morgen habe ich ein Glas Marmelade an Dich abgeschickt und vor 5 Tagen zwei kleine Butterpakete. Hoffentlich erhältst Du alles in gutem Zustand ...\"\nIhre Briefe haben meine Oma und meine Mutter übrigens aufbewahrt, wie gut!",
+    "owner": "45611ba9fa6ed07dc890a0fac6877bdb876c5b2be61bf76267207cf1aff3d9cc",
+    "likes_count": 11,
+    "answers": [
+      {
+        "id": 17914318283169297,
+        "created_at": 1643888237,
+        "text": "@ruedi.retyres wow - was ein schöner persönlicher Einblick. Danke fürs Teilen! 😍❤️",
+        "owner": "0fc530f69d9f9d030a11c9dce32ea3427778e38ffa3561787ab1b206e0bb3b7f",
+        "likes_count": 2
+      }
+    ]
+  },
+  {
+    "id": 17878926872566945,
+    "created_at": 1643829332,
+    "text": "Liebe Sophie, genieß die gute Nachricht, den Abend mit Freunden. Es ist viel zu selten, dass ihr einen Grund habt glücklich zu sein. Ich ziehe den Hut vor euch. Ihr werdet Geschichte schreiben, da bin ich überzeugt von",
+    "owner": "cc9b518dd3a2babca4bd50859ac369c7c354a52e186eff5cc709c1aa4ab1ae8c",
+    "likes_count": 4,
+    "answers": [
+      {
+        "id": 17910542834489655,
+        "created_at": 1643887868,
+        "text": "@tam1805 Das wäre schön! Das hieße dann ja, dass wir etwas bewirken konnten...",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 7
+      }
+    ]
+  },
+  {
+    "id": 18182288326162066,
+    "created_at": 1643829107,
+    "text": "Vielleicht Bratkartoffeln mit Ei und Zwiebeln? „Bauernfrühstück“ nennt man das bei uns! Da kommt allerdings bei uns noch etwas Speck rein, aber den kann man auch gut weglassen!",
+    "owner": "9a9f67546c401cde7046d93479adb1e013105aa00e023dcc9dc9d347a67352f0",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17882194013615599,
+    "created_at": 1643827214,
+    "text": "Kartoffelauflauf",
+    "owner": "2d9c0c571874d31b93c8086727f93a06d4f8ea20d936ac395de6b4b97556c331",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17922386456156070,
+    "created_at": 1643826192,
+    "text": "Meine Oma👵 hatte da ein total leckeres 😋 Rezept, das richtig einfach ist. Mache ich manchmal, wenn es schnell gehen muss. \n\nKartoffelpfannkuchen\nZutaten: 1 - 1,5 kg Pellkartoffeln\nZubereitung: Die noch heißen Pellkartoffeln werden abgezogen mit der Gabel zerdrückt, etwas Salz daruntergegeben und portionsweise in die Pfanne gedrückt, die man vorher mit einer halben rohen, in flüssiges Fett getauchten Kartoffel ausgefettet hat. Man lässt die Kartoffeln auf der Unterseite etwas bräunen.\nVielleicht schmeckt es euch 🤗🤗🤗",
+    "owner": "42d8478652779802b05cf3269d9ea307e8cbea34a0f14c538952a89dad6090ec",
+    "likes_count": 5,
+    "answers": [
+      {
+        "id": 18285356431032571,
+        "created_at": 1643887783,
+        "text": "@susikauslue Danke für dein Rezept, das klingt sehr lecker. Ich werde es mir merken!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 11
+      },
+      {
+        "id": 18146228218223713,
+        "created_at": 1643827782,
+        "text": "@susikauslue was gibt es da dazu? Bischen wie Rösti .",
+        "owner": "3a4185b39c8b2e64d203bad88c24f9d908d1196a9e042037a6030ed33deb6d6f",
+        "likes_count": 0
+      },
+      {
+        "id": 17919476927318495,
+        "created_at": 1643880575,
+        "text": "@riso5400 ich mache da meistens einen Salat zu.",
+        "owner": "42d8478652779802b05cf3269d9ea307e8cbea34a0f14c538952a89dad6090ec",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17929024633924457,
+    "created_at": 1643824186,
+    "text": "Als Feedback mal hier, vielleicht nimmt es ja irgendwer mit: das Vermischen von Stalingrad, 10 Jahre NS-Herrschaft und der Bitte nach Kartoffelnrezepten finde ich recht verstörend. Bin sozusagen negativ emotionalisiert.",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 6,
+    "answers": [
+      {
+        "id": 18279086422056874,
+        "created_at": 1643961971,
+        "text": "@pastro1982 wie gesagt, das ist MEIN Feedback, deins kann sehr gerne anders aussehen, meins wirst du aber nicht ändern.",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 0
+      },
+      {
+        "id": 18015096268367344,
+        "created_at": 1643962260,
+        "text": "Und man könnte sich natürlich fragen, was man aus dieser Geschichte lernt. Dass Sophie unsere Kartoffelrezepte von 2022 nachkocht? Ist es das, was wir aus der Geschichte lernen wollen. Okay.",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 0
+      },
+      {
+        "id": 17983599442456483,
+        "created_at": 1643972389,
+        "text": "@most.boring.facts Sophie Scholl an Fritz Hartnagel, 3.1.43\n\"O, ich glaube wohl, daß das Elend stumpf machen will, doch denke daran: Un esprit dur, du coeur tendre! \nOftmals bin ich unglücklich, daß alles Leid nicht durch mich geht, so wenigstens könnte ich einen Teil meiner Schuld abtragen an denen, die unverdient so viel mehr leiden müssen als ich.\"",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 1
+      },
+      {
+        "id": 17959522780584416,
+        "created_at": 1643953834,
+        "text": "Das war aber das, was den Alltag der Menschen bestimmte zu der Zeit. Auch eine Art historischer Aufbereitung. Die meisten interessierten sich wohl doch eher für das Essen und für Nachrichten über die eigenen Verwandten, die im Krieg an der Front kämpften.",
+        "owner": "95d1a7842cc4f19eb7d5298c8f37ad6a8d8f649506d82d0e821372986e79d3d9",
+        "likes_count": 0
+      },
+      {
+        "id": 17934021997858917,
+        "created_at": 1643977847,
+        "text": "Spricht alles nicht gegen die Tatsache, ja die Notwendigkeit, sich von diesem schrecklichen Elend abzulenken und die Gedanken auf etwas positives, lebendiges zu lenken. So gerne ich den tragischen Geschichten meiner Oma zuhöre, so sehr freue ich mich doch, mit ihr auch über positive, schöne, meist banale Dinge mit ihr zu sprechen. Könnten wir hier mit der echten Sophie Scholl texten, würde ich die Aussage vollumfänglich unterschreiben, dass Rezeptideen hier keinen Platz haben. Manche Rezepte haben jedoch selbst historischen Hintergrund, etwa die Idee des Quellen lassens, um möglichst viele Menschen zu sättigen in schlechten Zeiten.",
+        "owner": "95d1a7842cc4f19eb7d5298c8f37ad6a8d8f649506d82d0e821372986e79d3d9",
+        "likes_count": 0
+      },
+      {
+        "id": 17930363036003932,
+        "created_at": 1643971571,
+        "text": "@pastro1982 Ja, das ist sehr wahrscheinlich, dass sich die Menschen damals mehr für die eigenen Verwandten und fürs Essen interessierten. U.a. deswegen konnte es überhaupt so weit kommen, dass der Aufbau eines Terror-Regimes und das millionenfache Morden im NS-Regime von den meisten ohne Widerstand hingenommen wurde. \n\nIch frage mich halt nur, was es für uns HEUTE bedeutet, also was von diesem Account vermittelt wird, wenn diese Haltung einfach reproduziert wird, in der Menschen kaum über ihren eigenen Tellerrand schauen und Mitgefühl wirklich nur mit den allerallernächststehenden Menschen empfinden. Und wenn dies noch dazu unkommentiert bleibt und von einer Figur vorgelebt wird, mit der über die letzten Monate offensichtlich für einen großen Teil der Community eine Art emotionale Verbindung aufgebaut wurde, und die sich auf ja auch auf die historische Sophie Scholl beziehen soll - also auf eine Person mit großem Vorbildcharakter. \n\nDie reale Sophie Scholl zeichnete sich aber u.a. genau dadurch aus, dass sie sich ihrer privilegierten Position bewusst war und darunter litt, dass es anderen unendlich viel schlechter ging als ihr - einer der Gründe, warum sie in den Widerstand ging.",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 1
+      },
+      {
+        "id": 17911913576214771,
+        "created_at": 1643972054,
+        "text": "@heikegumz Sophie Scholl an Otl Aicher, 19.1.1943\n„Ich bin gerade nicht beieinander, etwas, das mir bis jetzt vollständig unbekannt war. Meine Gedanken springen hierhin und dahin, ohne daß ich richtig über sie gebieten könnte, ich habe ziemliche Kopfschmerzen, das mag schuld daran tragen, wenigstens einen Teil. Doch wird diese Krankheit bald vorüber sein, ich muß selbst Geduld mit mir haben. (…) Ja, ich bemerkte auf einmal mit Schrecken, daß ich alles anscheinend Gute getan hatte, nicht um Gutes zu tun, sondern um in den Augen anderer für gut zu gelten, oder um meinetwegen einen guten Menschen einzuholen wie ein Wettläufer den anderen. Anstatt daß ich ihm zugestände, daß er der bessere Läufer sei, und meinen zweiten oder zwanzigsten Platz als ganz gerecht und mit Bescheidenheit einnähme.“\nScholl/Scholl: Briefe und Aufzeichnungen, S. 286",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 1
+      },
+      {
+        "id": 17907068801418067,
+        "created_at": 1643987154,
+        "text": "@pastro1982 ich habe auch nicht gesagt, dass Rezepte hier generell nichts zu suchen haben. Ich finde sie nur im Kontext mit Stalingrad und 10 Jahren nationalsozialistischer Herrschaft in Deutschland hier schwierig, weil das für mich (und ich spreche hier nur für mich) die beiden letztgenannten Aspekte banalisiert.",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 0
+      },
+      {
+        "id": 17897817653442567,
+        "created_at": 1644005143,
+        "text": "So banal sind Kriegszeiten manchmal für Nichtsoldaten, wenn die Front woanders liegt. Dennoch ist Deine Ansicht völlig legitim.",
+        "owner": "95d1a7842cc4f19eb7d5298c8f37ad6a8d8f649506d82d0e821372986e79d3d9",
+        "likes_count": 0
+      },
+      {
+        "id": 17862698285673521,
+        "created_at": 1643972497,
+        "text": "@most.boring.facts Sophie Scholl an Fritz Hartnagel, 28.10.1942\nDenn das glaube ich nie und nimmer, daß es ein Mensch gut findet, wenn ein schwaches Land, von einem mächtigen Heer überfallen wird, zugrunde geht. Der schlechteste Mensch, er mag sonst seine Freude daran haben, wird das nicht gut finden. Die Herrschaft der brutalen Gewalt wird immer den Untergang oder wenigstens das Unsichtbarwerden des Geistes bedeuten - wollen sie das, sie, die mit dir streiten? Oh, diese faule Denker! Mit ihrem sentimentalen Stirb und Werde. Nur aus Leben entsteht Leben, oder haben jene schon beobachtet, daß eine tote Mutter ein Kind geboren hat? Haben sie schon beobachtet, daß eine tote Mutter ein Kind geboren hat? Haben sie schon beobachtet, daß ein Stein dem man sogar einen Schein vom Leben absprechen kann, da er ist und ein Schicksal hat, sich vermehrt? Sie haben noch nicht nachgedacht über den widersinnigen Satz: Nur aus Tod entsteht Leben. Und mit ihrem Selbsterhaltungstrieb werden sie ihrer Selbstvernichtung entgegensteuern. Sie wissen nichts von einer Welt des Geistes, in der das Gesetz der Sünde und des Todes überwunden wird.\nScholl/Scholl: Briefe und Aufzeichnungen, S. 275f",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17927177045083699,
+    "created_at": 1643823458,
+    "text": "Fächerkartoffeln mit geschmelzten Zwiebeln in Sahnesauce!",
+    "owner": "3af84e1213f0c78150e0f8f5960573c3ebdf83a0962fd5f5bf3bd2f045803f49",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17988995767441337,
+    "created_at": 1643823081,
+    "text": "Wenn du noch etwas Grieß hast, kannst du mein Lieblingsessen meiner Kindheit machen: die Version meiner Oma von Kartoffelbrei und Rührei, \"Mammaliga mit Eierschmalz\". Dafür musst du Kartoffeln mit Grieß stampfen, der quillt dann nach (macht viele satt 🤭). In einer nicht so heißen Pfanne viiiiiiiele Zwiebeln sanft anschwitzen, Eier einrühren und nur leicht stocken lassen. Flüssige Eier mit dem Kartoffelstampf aufstippen. Mmm!😋",
+    "owner": "aef885d3a035e599871c2216741959e5dc86f539041fa622764ffd3403851150",
+    "likes_count": 5,
+    "answers": [
+      {
+        "id": 17924162933118498,
+        "created_at": 1643887602,
+        "text": "@pelannina Das merke ich mir definitiv für das nächste Mal!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17982442093427943,
+    "created_at": 1643820717,
+    "text": "Kartoffelauflauf ist immer lecker 😋. Ich wünsche dir liebe Sophie, dass du und Fritz zusammen seine Rückkehr feiern könnt 🙏",
+    "owner": "1328c9d7fa4fa3176fe85db9d802423c0ef1ed0e4acdaf369189b52f931eb01f",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17861312666646957,
+    "created_at": 1643819462,
+    "text": "Du hast so recht!! Es ist einfach nur schrecklich und es gibt keine Worte dafür. Schön das Fritz gerettet wurde!!! Kochen kann ich leider nicht wirklich...Bratkartoffeln mit Spiegeleiern und Kohlgemüse?????",
+    "owner": "9bde00e505c2e05b57d1c74bbe0961c9865fccae2c761f2e17b884a880d7baa3",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17906691023408122,
+    "created_at": 1643818713,
+    "text": "Aus Kartoffeln kannst Du auch etwas Exotisches machen: Gnocchi! Zum Beispiel mit Salbeibutter? \n\nIch habe am 18. Februar Geburtstag und dieser Kanal macht Geschichte einfach so erlebbar, dass ich mir dieses Jahr nur wünsche, der Tag möge nicht kommen… 💔",
+    "owner": "af9644c57e7588069068b7ef50e48f91bd34b280afdb671b723477d6e6ffef4b",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17929064950909318,
+    "created_at": 1643818634,
+    "text": "Scheint eine „ostmärkische“ Ausgabe des VB zu sein. Sehr interessant, dass man österreichische Bezeichnungen verwendete.",
+    "owner": "7c0eed372356740864877ed2c61b6f71743c347110321fad26d6bf963f6eb618",
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 17937377995790413,
+        "created_at": 1643823156,
+        "text": "@zuagroastebayrischeschwaebin Dankeschön 😃",
+        "owner": "7c0eed372356740864877ed2c61b6f71743c347110321fad26d6bf963f6eb618",
+        "likes_count": 1
+      },
+      {
+        "id": 17858720978657040,
+        "created_at": 1643819301,
+        "text": "@weltenbummlerblog die Ausgabe, des Völkischen Beobachter die hier immer genutzt wird, ist die Wiener Ausgabe aus dem frei zugänglichen digitalisierten Zeitungsarchiv der österreichischen Nationalbibliothek. Das hier ist die Ausgabe vom 31.01.1943",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 9
+      }
+    ]
+  },
+  {
+    "id": 17990371579437452,
+    "created_at": 1643818072,
+    "text": "Liebe Sophie... 10 Jahre H●tler sind definitiv 10 Jahre zu lange... Vielleicht kennst du Kartoffelpuffer? Oder Kartoffelpfannkuchen? Schmecken sehr lecker!! 🥔🥔🥔🥔🧅🔪💫🥞",
+    "owner": "a5a97aaceead0dd6b4da7f720ad6fe2dac46735f738d08b78610bfab59676a8d",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 18199186774145062,
+        "created_at": 1643887496,
+        "text": "@gwen_gloeckchen Ohne Frage, schon ein Jahr Hitler ist zu viel!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 2
+      },
+      {
+        "id": 17932203193893092,
+        "created_at": 1643906521,
+        "text": "@ichbinsophiescholl 👏👏Absolut! Bin ich voll bei dir! Wäre der Kerl Kunstmaler geworden, hätte er und wir mehr von gehabt, denn malen konnte er! Liebe Grüße an alle Blütenblätter der weißen Rose 🌹",
+        "owner": "a5a97aaceead0dd6b4da7f720ad6fe2dac46735f738d08b78610bfab59676a8d",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17929090384935796,
+    "created_at": 1643817107,
+    "text": "Kartoffelauflauf!!",
+    "owner": "9cf0246de09f9609e85ff49b57109dfdffb8a448d369a586483b5c16a5c45d2c",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17913038522479057,
+    "created_at": 1643816797,
+    "text": "@ichbinsophiescholl \nWelche beste Nachricht gab es denn von deiner Mutter? 😊\nIch liebe Bratkartoffeln mit Speck 😍",
+    "owner": "6e55d2b825db229111ab999835e3bef9975b3127666928858bb395f5c807e303",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17950383883659198,
+        "created_at": 1643887466,
+        "text": "@lieschen_mueller Mutter berichtete mir, dass Fritz überlebt hat und nun in einem Lazarett liegt. Ihm geht also den Umständen entsprechend in Ordnung.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17931924010887972,
+    "created_at": 1643814860,
+    "text": "Ein Kartoffelgratin ist recht schnell gekocht und wäre recht lecker. ;-)",
+    "owner": "157464a70ad5dec25565349915aa76844cee7df6fd665773249ff50c31fe6588",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17926450033979219,
+    "created_at": 1643814382,
+    "text": "Ich habe heute den Weisheitszahn gezogen bekommen. Gestern habe ich noch einen Kartoffel-Karottenbrei gekocht.",
+    "owner": "b9ee92f927a4de6c39320428474f2c336110c842da829e60464c7d3dfaff67e4",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17954614723621248,
+    "created_at": 1643813991,
+    "text": "Mit Kartoffeln und Sahne kann man Kartoffelgratin machen, vielleicht gibt es ja sogar noch ein kleines Stück zum Überbacken!",
+    "owner": "a489c9732cc8314ac01e5bdbf383da354e0f6e645a16dd318b12229890e2cac1",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17938416247891957,
+    "created_at": 1643813429,
+    "text": "ein klassisches Bauernfrühstück",
+    "owner": "0572e9ca5ab577662fd678c121ce765cd323e41dfc16dd1179a3956bf1b4bf56",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17908199987293664,
+    "created_at": 1643813211,
+    "text": "Gratin dauphinois 🙌",
+    "owner": "aaee42b2e2f93630fcc563be6ab6c063bbd6bb9e12996f7abab88d3ad57e6b3a",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17922533570306379,
+    "created_at": 1643812951,
+    "text": "Schrecklich, diese Zeitung.\nKann ich dir nur zustimmen.",
+    "owner": "6d241b14cc44bf861ffae8d2c6085bf63907af9b4ffb84061a037bd10b4299f9",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17946974488695997,
+    "created_at": 1643812837,
+    "text": "Sophie Scholl an Fritz Hartnagel am 23.9.1940:\n„Du hast mich gebeten, Dir meine Ansicht über Volk zu schreiben. Dazu wird mir die Zeit jetzt nicht reichen, obwohl mir der Begriff, wenn auch nicht scharf umrissen, ziemlich klar ist.\nDie Stellung eines Soldaten dem Volk gegenüber ist für mich ungefähr die eines Sohnes, der seinen Vater und seiner Familie schwört, in jeder Situation zu ihm oder zu ihr zu halten. Kommt es vor, daß der Vater einer anderen Familie Unrecht tut und dadurch Unannehmlichkeiten bekommt, dann muß der Sohn trotz allem zum Vater halten. So viel Verständnis für Sippe bringe ich nicht auf. Ich finde, daß immer Gerechtigkeit höher steht als jede andere, oft sentimentale Anhänglichkeit.\nUnd es wäre doch schöner, die Menschen könnten sich im Kampfe auf die Seite stellen, die sie für die gerechtfertigte halten. Ich hielt es immer für falsch, wenn ein Vater ganz auf seiten seines Kindes stand, etwa, wenn der Lehrer das Kind gestraft hatte. Selbst wenn er es noch so liebte. Oder gerade deshalb.\nEbenso unrichtig finde ich es, wenn ein Deutscher oder Franzose oder was er sein mag, sein Volk stur verteidigt, nur weil es sein Volk ist. Gefühle leiten oft irre. Wenn ich auf der Straße Soldaten sehe, womöglich noch mit Musik, dann bin ich auch gerührt, früher mußte ich mich bei Märschen gegen Tränen wehren. Aber das sind Sentimente für alte Weiber. Es ist lächerlich, wenn man sich von ihnen beherrschen läßt.\nIn der Schule wurde uns gesagt, die Einstellung eines Deutschen sei eine bewußt subjektive. - Solange sie dabei nicht auch objektiv ist, kann ich dies nicht anerkennen. Aber diese subjektive Haltung hat vielen Leuten eingeleuchtet, und manche, die nach einer Form für ihre sich wider-streitenden Gefühle suchten, haben sich aufatmend zu ihr bekannt.“\nScholl/Scholl: Briefe und Aufzeichnungen, S. 201f",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 12,
+    "answers": [
+      {
+        "id": 17943367846771709,
+        "created_at": 1643813754,
+        "text": "@most.boring.facts Vielen Dank für diesen Einblick in Sophie Scholls Gedanken und Ansichten!",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 5
+      }
+    ]
+  },
+  {
+    "id": 17957674870593482,
+    "created_at": 1643812588,
+    "text": "Die Kartoffeln in Stäbchen schneiden und in Öl ausbacken. Der Franzose nennt das Pommes Frites. Hat mein Großvater mal in Paris gegessen.",
+    "owner": "13588267f54cb1282da585c12a4549f0f2cf6c0ff4cec1a02796e7052841e7b0",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17871650576608752,
+    "created_at": 1643812357,
+    "text": "Kartoffel-Tortilla 🥔🧅🥚",
+    "owner": "4a6a2c4891ab4300e4719eb0dfbcf53240df0e806d2dea4d017b10143301c037",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17868143684619458,
+    "created_at": 1643812170,
+    "text": "Da hast du aber eine alte Zeitung gefunden, die ist doch am 30.1.1943 rausgekommen…",
+    "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+    "likes_count": 4,
+    "answers": []
+  },
+  {
+    "id": 17858817434657035,
+    "created_at": 1643810143,
+    "text": "spätzlesuppe",
+    "owner": "c3b5d16a0ceefa70ba7a945d88b5386ac5edde7a049a64a126c3021279a26634",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 18106982356287004,
+        "created_at": 1643821759,
+        "text": "@zuagroastebayrischeschwaebin ich kenne auch Spätzlesuppe 😀",
+        "owner": "ef618d05d3cebb66015533c80a73069ba00dbca04fa99fbdf1730a538f454f5e",
+        "likes_count": 0
+      },
+      {
+        "id": 17928292466059270,
+        "created_at": 1643813629,
+        "text": "@syntexta meinst Du Flädlesuppe? Oder gibt es echt auch ne Spätzlesuppe? Also ist das irgendwas regionales?",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17958336709550073,
+    "created_at": 1643809712,
+    "text": "Das klingt nach Reibekuchen 😊",
+    "owner": "f9035c28ea5241815146a8b0cabffa9df61788f17aa99951333ad4e33ab2259a",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17923277846145365,
+    "created_at": 1643809617,
+    "text": "Einen Kartoffelauflauf wäre möglich.",
+    "owner": "b4dc8281120ffacb72e5bb5c64c309679b01f4b1ff7a44e7130d04b6b9ed087f",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17910248333465060,
+    "created_at": 1643809493,
+    "text": "Ich schließe mich ebenfalls Kartoffelauflauf an....du bekommst vielleicht auch Gemüse zum aufpeppen 😋",
+    "owner": "9e0c3d5b3d7442c8d5d9f55673aadb5427d09f516c762cbe115f8d986a288539",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18126424948255748,
+    "created_at": 1643809455,
+    "text": "Wäre es für das Nazi Regime nicht eher negativ gewesen die Machtergreifung Hitlers als solche zu bezeichnen, da eine Ergreifung eher von dem angespornten Anschein der \"demokratischen\" Machtübernahme ablenkt?",
+    "owner": "4bee0f9b9f47292809a0d364ec68af5c38c9c6c2c160ed7aaba3bbbe9c1f37b4",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17881223330550039,
+    "created_at": 1643808974,
+    "text": "10 Jahre Morde und Vertreibung. Millionen Familien zerstört. Danke dass Ihr dagegen kämpft. Zukünftige Generationen werden es Euch für immer danken.",
+    "owner": "962b6766d6b42d222d2267486b6f0ca87cd7561e50939dd70d8ea98b2322d851",
+    "likes_count": 6,
+    "answers": [
+      {
+        "id": 18279445240042731,
+        "created_at": 1643838196,
+        "text": "@thiloinsta Vielen ging es aber auch besser als davor.",
+        "owner": "0a23da0c170397da7f265ee232095704cffa7e2a720a0b2599f8fe8e5c37467a",
+        "likes_count": 0
+      },
+      {
+        "id": 18010920532355252,
+        "created_at": 1643812189,
+        "text": "@thiloinsta zukünftige Generationen haben scheinbar nichts daraus gelernt wenn man sich aktuell so in Europa umblickt",
+        "owner": "2c2041c5a199f29ee02d71832075a2880c1a8bf933e8951e7048b84ea8492b10",
+        "likes_count": 0
+      },
+      {
+        "id": 17899193945418486,
+        "created_at": 1643818299,
+        "text": "@thiloinsta doof nur wenn diese kleine Randgruppe politische Schlüsselposotionen besetzt",
+        "owner": "2c2041c5a199f29ee02d71832075a2880c1a8bf933e8951e7048b84ea8492b10",
+        "likes_count": 0
+      },
+      {
+        "id": 17865978800662363,
+        "created_at": 1643818129,
+        "text": "@osirisdatz  naja. Die Mehrheit ja doch. Man darf sich nicht durch eine kleine Randgruppe verunsichern verunsichern lassen.",
+        "owner": "962b6766d6b42d222d2267486b6f0ca87cd7561e50939dd70d8ea98b2322d851",
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17938974799756367,
+    "created_at": 1643808784,
+    "text": "Ich finde es schlimm, dass wir schon Februar haben und die Geschichte uns lehrte, was Sophie in diesem Monat widerfahren ist😢",
+    "owner": "4384dea90efe57b78647dc2b0d3e3f1cebc94dd916d999bd84346438c46b942b",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17935509949903277,
+    "created_at": 1643808539,
+    "text": "Kartoffelgratin 😍",
+    "owner": "2e5891189a8865d9cf8a88ba8be2b63c1cbda4a91bcb3b4fa9d54c6bf778a62e",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17863853207669783,
+    "created_at": 1643808074,
+    "text": "Bratkartoffeln! Dazu passt ALLES!",
+    "owner": "09ec1946ae3fd461365d7ca6ca74be76f98dfe7c33760f5888e6b4bb67465f60",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17976057586483189,
+    "created_at": 1643808002,
+    "text": "Kartoffeln mit grüner Soße (Frankfurter Soße) 😋 lecker!",
+    "owner": "d8d7676a9db78286dcb4c5afb9681b40a8bca98ae96fc1dc1410fe7338c17089",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17938237651880596,
+    "created_at": 1643807912,
+    "text": "Kartoffelpuffer",
+    "owner": "cb06b55bd0d32f3bcf54e8e9bd1414375a9f946a8fc2631648c5f90e059a3f09",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17905061168328216,
+    "created_at": 1643807605,
+    "text": "Ich würde Döppekochen machen...❤️",
+    "owner": "48944f97a8c539589cf96fb01ad47fe5170b1c5ccc1060ca08646e6a0517f735",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17940824803737191,
+    "created_at": 1643806647,
+    "text": "Verlorene Eier, falls Du noch etwas Senf auftreiben kannst. Mit Salzkartoffeln🙌",
+    "owner": "0477f92559bdad28cb6cca54eb3a15b6bf0faf749d380f5220c9a8bc18f46cdb",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17945079214671516,
+    "created_at": 1643806534,
+    "text": "Die haben wir auch noch zuhause! ❤️",
+    "owner": "cc434c54659d2a113a8e7a19c6b1ecc4a1d434bc1c561968700659f3171a06f7",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17899821410403573,
+    "created_at": 1643806388,
+    "text": "Kartoffelauflauf😍",
+    "owner": "aa7ce4d71fc0f8d7001ab733b572ee8f7be0872f0217a12a7d2a41ea1a96dfa8",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17936102059818349,
+    "created_at": 1643806099,
+    "text": "Ich kann mich den anderen nur anschließen mit dem Kartoffelauflauf als Idee! Das wäre doch eine schöne leckere warme Mahlzeit für alle!",
+    "owner": "d2d333541d65c1d02df6d610f203d84b836cdd67ec10fa04ac8f10e00b1d47da",
+    "likes_count": 13,
+    "answers": [
+      {
+        "id": 18004508617385813,
+        "created_at": 1643807535,
+        "text": "@germanboy180 Der Vorschlag gefällt mir auch sehr, darüber würden sich sicherlich alle freuen!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 10
+      }
+    ]
+  },
+  {
+    "id": 17927579639077845,
+    "created_at": 1643806067,
+    "text": "Es ist Winter und Kohlzeit, würde als Beilage nen warmen Salat zu Kartoffeln und Eier machen. Bleibt gesund.",
+    "owner": "b9cffe33030b8f24fa100ec85b357ca433bbe6bb47ccb9f1a921d17242077760",
+    "likes_count": 9,
+    "answers": [
+      {
+        "id": 17922838124037261,
+        "created_at": 1643807447,
+        "text": "@brahme.70 Etwas Kohl sollte ich auch auftreiben können. Mal sehen, was sich daraus machen lässt!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 18
+      }
+    ]
+  },
+  {
+    "id": 17911929488353471,
+    "created_at": 1643806028,
+    "text": "Kartoffelpuffer sind immer lecker 😋schön das es Fritz einigermaßen gut geht 😍",
+    "owner": "023a46fda9cb5aa11c55982cbfbe93017498820621ef1546fd68ab6ccf11742e",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17951099485646343,
+    "created_at": 1643805635,
+    "text": "Eine kräftige Suppe",
+    "owner": "67a81014babd12bb1124d6142d5421ec7dcb9f30408945755565f24e255241f3",
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 18221408995110604,
+        "created_at": 1643806393,
+        "text": "@pezilein123 Daran habe ich noch gar nicht gedacht. Bei dem kalten Wetter wäre eine wärmende Suppe eine gute Wahl!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 3
+      }
+    ]
+  },
+  {
+    "id": 18217946359118285,
+    "created_at": 1643805237,
+    "text": "Den Völkischen Beobachter kannst du ja für die Kartoffel Schalen verwenden .",
+    "owner": "6442b266dcd9cc786bae064ff8b39c61fd13ed1a6e84876ff60d0ed3c4d1bac3",
+    "likes_count": 14,
+    "answers": [
+      {
+        "id": 18191558152157565,
+        "created_at": 1643839352,
+        "text": "@amurimi ja, ich glaub allgemein hat man Kartoffelschalen glaub eher selten weggeworfen. Ich weiß nicht mehr wo, aber ich hab auch mal gelesen, dass es entsprechende Vorgaben für Restaurants gab. Und dazu muss man sagen, dass je nach Kartoffelsorte, Schalen ja auch echt nicht schlecht sind.",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 3
+      },
+      {
+        "id": 17964472264540688,
+        "created_at": 1643837658,
+        "text": "@kastennathan Als ich das gerade gelesen habe, musste ich gleich daran denken, dass meine Oma zu der Zeit aus den Kartoffelschalen Kartoffel Puffer gemacht hat, weil die Lebensmittel so knapp waren. 😟",
+        "owner": "4f099f84bc25acfc24d1cdb29debdd94d1dedc62cb86b9141d5f7bef8ef3c207",
+        "likes_count": 3
+      },
+      {
+        "id": 17951570497722201,
+        "created_at": 1643807357,
+        "text": "@springtimejenny @kastennathan Da habt ihr Recht, lesen werde ich ihn zumindest nicht! Ich kann es nicht fassen, dass so viele Menschen immer noch an die vielen Lügen glauben, die die Nationalsozialisten verbreiten!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 31
+      },
+      {
+        "id": 17932328791981140,
+        "created_at": 1643806020,
+        "text": "@kastennathan die armen Kartoffelschalen. Aber so würde er sich wenigstens nützlich machen.",
+        "owner": "7d27fdbe3ad50680f5d8d3435beec023d09a8c60c0fb69fe8a4a6d39c3fcf7b6",
+        "likes_count": 6
+      },
+      {
+        "id": 17878915610567969,
+        "created_at": 1643808619,
+        "text": "@ichbinsophiescholl nein, Sophie, das Schundblattl brauchst du echt nicht lesen. Ich hoffe, du findest gute Lebensmittel, mit denen du dir und den anderen etwas Gutes tun kannst.",
+        "owner": "7d27fdbe3ad50680f5d8d3435beec023d09a8c60c0fb69fe8a4a6d39c3fcf7b6",
+        "likes_count": 3
+      }
+    ]
+  },
+  {
+    "id": 17960110759570216,
+    "created_at": 1643805143,
+    "text": "Lasse dich mit solch verräterischen Parolen bloß nicht auf den Universitätsfluren blicken! *wischt den Boden in der Uni*",
+    "owner": "f0737a86511484ac622a16745af155018a893a2d384eeeda2bf4f28f3b5a9cc1",
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17941396555798408,
+        "created_at": 1643824879,
+        "text": "@jakob_schmid_86 aha, Sie haben meine Frage beantwortet, danke!",
+        "owner": "9a7d51176e8bcc40d46e7008413e17ec4f0e57bb3dc66da77738aa0f3af0d7b6",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 18255222700073557,
+    "created_at": 1643805075,
+    "text": "Kartoffelbrei mit Spiegeleiern vielleicht ....",
+    "owner": "1553f1f086268b1bd53f6e1c6c0a8066d5ffa4acdbf31b62b35671ec5eec0ea8",
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17911187072365561,
+    "created_at": 1643805005,
+    "text": "Kartoffelgratin",
+    "owner": "51581cb204bb58e2d158871abf2b5364e9dfdb316e8d666a776e95474fc1ae65",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17941719463837143,
+    "created_at": 1643804830,
+    "text": "Vielleicht Bratkartoffeln und Rührei",
+    "owner": "b085104ee82c652456afdc9756eea90410eff659c4c5f84c52dee207c538f2c1",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17956363081608238,
+    "created_at": 1643804765,
+    "text": "Kartoffelgratin",
+    "owner": "ef1308ed6ee0a09dfec16950c41fc91eb7cefabbd5f9a8c340b0e3b1184a83f5",
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17916480212132368,
+    "created_at": 1643804752,
+    "text": "Kartoffelpuffer oder Kartoffelbrei mit Spiegelei, wenn du Sahne und Eier bekommst.",
+    "owner": "2d5d17824053d19a4c5962ffcf2c6db265b53db730e345e04b67c88992b81385",
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 17922841967132269,
+        "created_at": 1643806088,
+        "text": "@a.von.n Ich werde mich zumindest bemühen, alle benötigten Zutaten zu besorgen! Ich möchte alle an meiner Freude teilhaben lassen und das geht am Besten mit einer köstlichen Mahlzeit!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 3
+      }
+    ]
+  },
+  {
+    "id": 17960551270566890,
+    "created_at": 1643804628,
+    "text": "Muss gestehen, dass ich nach der Panzerschokolade der letzten Tage bei den Lebensmittelkarten an etwas anderes dachte 😂",
+    "owner": "602c7edd530c0bd423c99692bca44c120e61e21ea00fdde5cf8c396f842bdba6",
+    "likes_count": 4,
+    "answers": []
+  },
+  {
+    "id": 17928877013053699,
+    "created_at": 1643804515,
+    "text": "Kartoffelbrei mit Spiegeleiern 😍",
+    "owner": "1e74d17b08bbe9cff234b9a3c911cece018a0a2ae9bf4584c09068a0732d41a5",
+    "likes_count": 8,
+    "answers": [
+      {
+        "id": 17947480633642026,
+        "created_at": 1643806015,
+        "text": "@katl_di Eine sehr gute Idee! Ich bekomme jetzt schon ein wenig Hunger...",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 7
+      }
+    ]
+  },
+  {
+    "id": 18186785959092401,
+    "created_at": 1643804456,
+    "text": "Vielleicht einen Kartoffelauflauf. Pass auf dich auf! (Ich hab da ein ungutes gefühl, weil bereits Februar ist)",
+    "owner": "6892a316ca1f1d92b7383dc8be7eb32b8a78ec2cb7dd2f8e4c9b2e2da5da5234",
+    "likes_count": 7,
+    "answers": [
+      {
+        "id": 17967161155523584,
+        "created_at": 1643841562,
+        "text": "@capyra_kocht könnt ihr mal bitte mit den Rezepten aufhören…ist doch verstörend , was über Auschwitz geschrieben wird.",
+        "owner": "47cdc71ae4e87c8786513d8493faeaaadf7ba5d4e7996388c60f08fe55338682",
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17938395898867458,
+    "created_at": 1643804436,
+    "text": "Kartoffeln bieten unendliche Möglichkeiten 😎",
+    "owner": "bcbf5678980743b9f0a2ca2eaeee6a673b942ec73a8af437f6de1c6a7a6276f3",
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 18128822263250641,
+        "created_at": 1644933874,
+        "text": "@ichbinsophiescholl Bauernfrühstück. Und im Vorratsschrank findet sich bestimmt noch ein Glas mit eingelegten Gurken dazu🙂. Sonst die Sahne zu Butter schlagen und Bratkartoffeln mit Rührei machen. Natürlich die selbst gemachte Butter zum Anbraten verwenden.",
+        "owner": "609163393049e5ed7087d28c668056c3ca15a13fdc37b01f30dbceb50a7ad300",
+        "likes_count": 0
+      },
+      {
+        "id": 18077877826295376,
+        "created_at": 1643805631,
+        "text": "@ichbinsophiescholl hmmm Wenn noch etwas Käse aufzutreiben ist vielleicht ein Gratin? 🤔",
+        "owner": "bcbf5678980743b9f0a2ca2eaeee6a673b942ec73a8af437f6de1c6a7a6276f3",
+        "likes_count": 0
+      },
+      {
+        "id": 17890744349552119,
+        "created_at": 1643805578,
+        "text": "@jos_jo90 Das stimmt! Obwohl wir nicht so viele Lebensmittel zur Verfügung haben, kann man mit Kartoffeln doch etwas kreativ werden. Hast du einen Vorschlag, über welche Mahlzeit sich die anderen freuen würden?",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 2
+      }
+    ]
+  },
+  {
+    "id": 17914803899175093,
+    "created_at": 1643804400,
+    "text": "Senfeier😍",
+    "owner": "4130010ea4e3a282afae523fff7a4cefa362f489993261402bc8e7c3aff992b2",
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17989328575438169,
+    "created_at": 1643804290,
+    "text": "Wieso bekommst Du Kartoffeln bestimmt? Die werden doch idR nur ab und an in größeren Mengen abgegeben und müssen dann selbst gelagert werden.\n\nDazu ein Auszug aus dem Tagebuch des Victor Klemperer:\n„30. Januar, Sonnabend spätnachmittag\n[…]\nFür mich war der heutige Tag der »Machtübernahme« ganz und gar Kartoffeltag, Bei frostfreiem Wetter gibt es wieder ganze Zentner, wir haben noch drei Zentner bis Ende Juli (bis Ende Juli) frei, ich schaffte mühselig zwei heran. In doppelter Fahrt mit dem Handwagen vom Buchen am Anfang der Emser Allee aus. Der Sack war nicht zugebunden, nach zwei Schritten kollerten die Kartoffeln heraus. Ich las sie auf und band mit dem Taschentuch ab. Wieder zwei Schritte, und wieder kollerten die Kartoffeln. Ich bückte mich verzweifelt, da flatterte mein Kragenschoner. Signum coeli! Ich band den Kartoffelsack mit dem Schoner ab. Zur zweiten  Fahrt, am Nachmittag, rüstete mich Eva mit einem Bindfaden aus. Da kam ich besser heim, aber mit bösen Herzbeschwerden, an denen das Memento das Böseste ist. Eva ihrerseits war sehr deprimiert aus der Stadt gekommen: Seit einigen Tagen ist gar nichts zu haben, die Ernährung wird immer problematischer. Dazu ist Eva sehr gequält durch ihre »Prothese«, Wir nennen das wackelnde Ding umschichtig »das Schaukelpferd« und »das Schwert von Bannockburn« (»... auf der Treppe rasseln und schütteln«).\n⤵️",
+    "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+    "likes_count": 18,
+    "answers": [
+      {
+        "id": 17998961278405983,
+        "created_at": 1643930298,
+        "text": "@zuagroastebayrischeschwaebin WoW 👏 👏👏",
+        "owner": "1930251c1158ca67164635223c90b52f6338c8f14dbc1de801d379886307c959",
+        "likes_count": 0
+      },
+      {
+        "id": 17998673428404953,
+        "created_at": 1643804379,
+        "text": ".\nℹ️\nVictor Klemperer (1881-1960) war ein deutscher Literaturwissenschaftler, Romanist und Politiker. \n\nZu seiner Bekanntheit über die Fachgrenzen hinaus trugen neben seiner Abhandlung LTI – Notizbuch eines Philologen (Lingua Tertii Imperii: Sprache des Dritten Reiches) vor allem seine ab 1995 unter dem Titel Ich will Zeugnis ablegen bis zum letzten (1933–1945) herausgegebenen Tagebücher bei, in denen er akribisch seine Alltagserfahrungen im Zeichen der Ausgrenzung als intellektueller protestantischer Konvertit jüdischer Herkunft aus der deutschen Gesellschaft in der Zeit des Nationalsozialismus dokumentierte. Darüber hinaus vermitteln die Bände Curriculum Vitae (1881–1918), Leben sammeln, nicht fragen wozu und warum (1918–1932) und So sitze ich denn zwischen allen Stühlen (1945–1959) ein intensives Bild von Klemperers Blick auf die Zeit des Deutschen Kaiserreichs, der Weimarer Republik sowie der Deutschen Demokratischen Republik. Klemperer kann damit als einer der wichtigsten Chronisten des Lebens eines Überlebenden des Holocaust durch die deutschen Nationalsozialisten gelten; daneben aber auch als Zeitzeuge der Jahre vor und nach der Zeit des Nationalsozialismus. Im Jahr 1950 wurde er als Vertreter des Kulturbundes Abgeordneter der Volkskammer der DDR.\n(via Wikipedia)\n\nQuelle des Tagebuchauszugs: Victor Klemperer, Ich will Zeugnis ablegen bis zum Letzten - Tagebücher 1933-1945 Bd II, S. 261f - erschienen im Aufbau Verlag",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 10
+      },
+      {
+        "id": 17986862914413292,
+        "created_at": 1643804320,
+        "text": ".\nDen Handwagen lieh ich mir auf dem jüdischen Friedhof vom Verwalter Jacoby; der ist mir sehr gewogen, seit ich seine oraison funèbre bei dem ermordeten Arndt »sehr würdig« genannt habe. Er schenkt mir etwas Tabak und macht gebildete Gespräche, wenn ich in seine Amtswohnung komme. Er erzählte, am nächsten Mittwoch gebe es sieben Beisetzungen, wovon sechs geheimzuhalten seien. Die Leichen zum Tode verurteilter Protektoratsjuden. Sie wurden nach Dresden geschafft zur Hinrichtung. Im Landgericht am Münchner Platz arbeite eine Guillotine mit elektrischem Antrieb, alle zwei Minuten ein Kopf, nicht nur jüdische; Hauptschlachtzeit sei achtzehn Uhr, oft fielen bis zu fünfundzwanzig Köpfe hintereinander. Ich nehme ohne weiteres an, daß das »oft« und die Zahl Übertreibungen bedeuten, aber wenn nur die Hälfte davon wahr ist … Jacoby behauptet auch, es sei durch den Rundfunk eine Art Belagerungszustand erklärt und auf jede Widersetzlichkeit und jede Sabotage des neuen Arbeitsgesetzes Tod durch Erschießen gesetzt worden. - Eigentümlich und mir unerklärlich, wie in den Regierungsmaßnahmen der öffentliche Terror der Abschreckung und die geheime Grausamkeit Hand in Hand gehen. Gegen die Juden wird maßlos gehetzt - aber die schlimmsten Maßnahmen gegen sie werden vor den Ariern verheimlicht. Selbst nahestehende Leute kennen weder die kleinen Schikanen noch die grausigen Morde. Annemarie weiß nicht, daß wir kein Möbel\nverkaufen dürfen, daß alles beschlagnahmt ist - sie wollte uns ein Bücherregal abkaufen. Der Bürgermeister in Dölzschen wußte nicht, daß ich an die Stadtgrenze gebunden und ohne Fahrtberechtigung bin, Frau Eger sagte neulich:\n»Das ist das Schrecklichste für mich, daß die Leute immer sagen: ›Etwas muß doch Ihr Mann gemacht haben, man tötet doch niemanden ohne Grund!« (Ich kenne etwas noch Schrecklicheres, daß nämlich in solchem Fall auch Juden sagen: »Etwas wird er sicher getan haben, den Stern verdeckt oder nach acht auf der Straße gewesen.«) Das ist das gleiche, wie wenn es in dem Emigrantenbrief heißt: »Charakterlich paßt er zu uns.« Dieselbe innerliche Unterwerfung.\n- [...]“\n⤵️",
+        "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+        "likes_count": 10
+      }
+    ]
+  },
+  {
+    "id": 17932358395875464,
+    "created_at": 1643804282,
+    "text": "Bratkartoffeln und als Nachspeise Milchreis ❤️",
+    "owner": "6218180ba735cd34064562aa4daa5655a54ce71928174d665022236a9bddf9f3",
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 17861538158676478,
+    "created_at": 1643803751,
+    "text": "Bratkartoffeln mit Rührei oder Kartoffelauflauf",
+    "owner": "4a98ae4312c2ea2fbc63ae5ab0b9ca2fd5ee196d2b2885af6b0c790c2778e9d0",
+    "likes_count": 34,
+    "answers": [
+      {
+        "id": 17861689685676803,
+        "created_at": 1643805136,
+        "text": "@soccergod666 Das klingt sehr köstlich! Eine leckere Mahlzeit für diese schöne Nachricht heute morgen. Wenn ich etwas schönes koche, kann ich auch die anderen an meiner Freude teilhaben lassen.",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 23
+      }
+    ]
+  },
+  {
+    "id": 17879019227627712,
+    "created_at": 1643803544,
+    "text": "einen kartoffelauflauf 🥰",
+    "owner": "9c1b1373ae3f6d78b1ce2682767ec5644a6c1f4b37c87e8152d6f9e7fd20b616",
+    "likes_count": 10,
+    "answers": [
+      {
+        "id": 17920504154075299,
+        "created_at": 1643804670,
+        "text": "@a1exyza Das ist eine gute Idee!  Darüber werden sich sicher alle freuen!",
+        "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+        "likes_count": 6
+      }
+    ]
+  },
+  {
+    "id": 18192194929154947,
+    "created_at": 1643803497,
+    "text": "Klingt nach leckeren Bratkartoffeln mit Rührei",
+    "owner": "29211b102afe03bf1a4139d02aa58bee2c59be2e654765a93d9d5ef30e44bb0d",
+    "likes_count": 10,
+    "answers": []
+  },
+  {
+    "id": 17899597886416158,
+    "created_at": 1643803413,
+    "text": ".\n🗓 02.02.1943\n\n◼️ Bezirk Bialystok/Auschwitz\n\nEin Deportationszug mit 1.265 Juden aus dem Ghetto von Prushany, darunter 95 Kindern, kommt in Auschwitz an. Nach der \"Selektion\" werden 105 Frauen und 294 Männer als Häftlinge registriert; die anderen 866 Menschen werden in den Gaskammern  getötet.\n\n◼️ Protektorat\n\nAus dem Ghetto Theresienstadt werden 1.001 Menschen nach Auschwitz eingeliefert. 155 Männer und 63 Frauen werden in das Lager übernommen, während die anderen 783 Menschen in die Gaskammern geschickt werden. (Czech, S. 402-403)\n\n◼️ Generalgouvernement\n\nDas Ghetto von Kolomyja (Ukraine) wird endgültig \"liquidiert\"; seine letzten - etwa 2.000 - Bewohner werden von den Deutschen ermordet.\n〰️\nQuelle:\nhttp://www.holocaust-chronologie.de/chronologie/1943/februar.html",
+    "owner": "da99f6c2dda8687d46226880fb7203082ea483ecfd79fa41a7a76a275a29c001",
+    "likes_count": 18,
+    "answers": []
+  },
+  {
+    "id": 17929292510045435,
+    "created_at": 1643803358,
+    "text": "#TeamSoffer Die Versorgungslage war im Zweiten besser als im Ersten Weltkrieg. Das war durch die Ausbeutung von Zwangsarbeiter:innen und besetzter Gebiete möglich.⁠\nDie Nationalsozialisten wollten Hunger wie im Ersten Weltkrieg vermeiden und setzten deshalb ab 1939 ein Rationierungssystem ein. Alle vier Wochen gab es Lebensmittelkarten, gestaffelt nach Alter, Schwere der Arbeit, Möglichkeit der Selbstversorgung durch Landwirtschaft und rassistischen Kriterien (extreme Benachteiligung der jüdischen Bevölkerung und von Zwangsarbeiter:innen). Für nicht immer verfügbare Produkte wie Eier, Fisch, oder einzelne Obst- und Gemüsesorten waren die Bezugsscheine länger gültig. 1942 fand ein drastischer Einschnitt bei der Versorgung der Bevölkerung statt: Zuteilungen von Brot, Fleisch und Fett sanken um bis zu 25 Prozent.⁠\n⁠\nDie gezeigten Lebensmittelkarten sind Originale, stammen aber nicht aus dem Jahr 1943.",
+    "owner": "971cb9c9eada8fe503ecf5b86fe276e492432f4e5a48686164094d5adbd9b700",
+    "likes_count": 242,
+    "answers": [
+      {
+        "id": 17951433214636939,
+        "created_at": 1643811872,
+        "text": "@ichbinsophiescholl Aus dem 6. Flugblatt der Weißen Rose\n\"Freiheit und Ehre! Zehn lange Jahre haben Hitler und seine Genossen die beiden herrlichen deutschen Worte bis zum Ekel ausgequetscht, abgedroschen, verdreht, wie es nur Dilettanten vermögen, die die höchsten Werte einer Nation vor die Säue werfen. Was ihnen Freiheit und Ehre gilt, das haben sie in zehn Jahren der Zerstörung aller materiellen und geistigen Freiheit, aller sittlichen Substanz im deutschen Volk genugsam gezeigt.\nAuch dem dümmsten Deutschen hat das furchtbare Blutbad die Augen geöffnet, das sie im Namen von Freiheit und Ehre der deutschen Nation in ganz Europa angerichtet haben und täglich neu anrichten. Der deutsche Name bleibt für immer geschändet, wenn nicht die deutsche Jugend endlich aufsteht, rächt und sühnt zugleich, ihre Peiniger zerschmettert und ein neues geistiges Europa aufrichtet.\n[...]\nUnser Volk steht im Aufbruch gegen die Verknechtung Europas durch den Nationalsozialismus, im neuen gläubigen Durchbruch von Freiheit und Ehre!",
+        "owner": "cbf02bc0722302ef44dfb8215c5dcf1cceb5305eda529089b74761c7271e473a",
+        "likes_count": 22
+      },
+      {
+        "id": 17943256174814266,
+        "created_at": 1643822886,
+        "text": "@ichbinsophiescholl Kartoffelgratin (Wenn das schon bekannt sein sollte?) evtl  Spiegelei dazu? Oder Bratapfel als Nachtisch?  Welche Lebensmittel sind denn überhaupt verfügbar/erhältlich?",
+        "owner": "4ff9f0823768178f89c1695342538a5d6f86f61e9c5144018b8c393ea73d1fd8",
+        "likes_count": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "id": 17893769708422949,
+    "created_at": 1635245140,
+    "text": "Ich mache meinem Bruder manchmal Muffins",
+    "owner": {
+      "id": "MbGJyJUuLIiaqgFq2DKTkA==",
+      "username": "5K2VAyLZ2LZ4YdQ_bEgscA=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17938997104647686,
+    "created_at": 1635052140,
+    "text": "Finde super,  dass ihr eine Bildbeschreibung dabei habt! 👏 Bitte beibehalten",
+    "owner": {
+      "id": "7jmAI1ZxUZNFK2cpVD0D4A==",
+      "username": "PEemXTp2e6BBjAptder9Dw=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17909488730175721,
+    "created_at": 1635020889,
+    "text": "Gibt es dazu noch genauere Mengenangaben? Würde das gerne mal probieren ;)",
+    "owner": {
+      "id": "aZhJBu5tOwbK4EirNKK6wA==",
+      "username": "WTxNwFKmnucImhG9yPZ2eg=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17869101635611026,
+    "created_at": 1635011678,
+    "text": "Jetzt hätte ich gerne das Rezept😍",
+    "owner": {
+      "id": "NfDdLdYNrZ1Agf9Ht6RuKA==",
+      "username": "tP8WpUpolvkR4Xpxsy08Ag=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18066980389294244,
+    "created_at": 1635010862,
+    "text": "@tRAetuaFCRcZAT0adXVqUw== 🙊Aber ein wenig kletschig sah der aus. Habt ihr den vllt zu früh aus dem Rohr genommen oder war vllt die Temperatur zu niedrig\\hoch?🤔🤔Oder kommt das wegen dem Honig 🍯",
+    "owner": {
+      "id": "zezGOyYtQsSggq79ZCZyGg==",
+      "username": "YPG08TrQOFCbCc-WTwoaCA=="
+    },
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 17916475211008797,
+        "created_at": 1635074590,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Das wird jedes Mal anders, weil wir die Zutaten immer variieren. Aber die Konsistenz war super!",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17908552241180016,
+        "created_at": 1635101044,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== 😊👍👍👍",
+        "owner": {
+          "id": "zezGOyYtQsSggq79ZCZyGg==",
+          "username": "YPG08TrQOFCbCc-WTwoaCA=="
+        },
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 18010123810351193,
+    "created_at": 1634984342,
+    "text": "Und all diese wertvollen Zutaten bekommt ihr so einfach, mitten im Krieg? Tauschware? 😮",
+    "owner": {
+      "id": "kKJw2B8NAIofiNBKnzdGmQ==",
+      "username": "T1Th-GGHob4hFY1ugmLdqQ=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 18260269960057081,
+    "created_at": 1634982137,
+    "text": "❤️",
+    "owner": {
+      "id": "ns0fA-6iWpjtfwF2ad10SQ==",
+      "username": "J-TokTCUVhmw-GRHzm9ntw=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17865859124575898,
+    "created_at": 1634950694,
+    "text": "Oh ich liebe Honigbrot, habe es aber tatsächlich noch nie selber gebacken. Das werde ich jetzt mal schnell nachholen. Liebe Grüße an Inge",
+    "owner": {
+      "id": "AoIVLmReZmqmVgPr21PGzQ==",
+      "username": "Ce_GPukrFlQPBtAUAh6heA=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17863698296625782,
+    "created_at": 1634948898,
+    "text": "Lecker 😋☺️",
+    "owner": {
+      "id": "x2dl7iFGSAJPSdpZnr7crA==",
+      "username": "GGWjdSoVJNwuAubz5iVGkA=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17909227271162762,
+    "created_at": 1634948567,
+    "text": "Kann sie auch hashbrownies?",
+    "owner": {
+      "id": "YjD-sf149nO3RlaaHtG6LQ==",
+      "username": "pi7pjOiS8PMuPBJeUcpalQ=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17896759376495600,
+    "created_at": 1634941282,
+    "text": "Naja... Aufgegangen schmeckt schon mehr flauschig ... Aber wir alle lieben Inge",
+    "owner": {
+      "id": "VP1VmfrncDl1kD6x7CuTqw==",
+      "username": "RQgrl7t40RTJhNt0JPBhFw=="
+    },
+    "likes_count": 0,
+    "answers": []
+  },
+  {
+    "id": 17849280464659616,
+    "created_at": 1634933740,
+    "text": "Die Zutaten zusammen mischen und für wie lange dann in den Ofen?",
+    "owner": {
+      "id": "dvN_XeEP-7y2wWMCacLDSg==",
+      "username": "ELQMr7QXYx2e5AreeTTMEw=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17905741574276736,
+    "created_at": 1634932461,
+    "text": "❤️",
+    "owner": {
+      "id": "VTTUMAWV-HeMVnnrnMuZdw==",
+      "username": "IwvAm4WLCDn_y2bBjvk3gg=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 18031450309310042,
+    "created_at": 1634929954,
+    "text": "Honigbrot gehört für mich zwar eher in die Weihnachtszeit, aber last es euch trotzdem schmecken. Mal was süßes tut auch gut in diesen Zeiten.",
+    "owner": {
+      "id": "s-wogNZkRfvdMJHcFFB16A==",
+      "username": "gQ56qBofHsrGEae5j3pu3g=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17869445588547113,
+    "created_at": 1634924381,
+    "text": "Mmmm lecker - lässt es euch schmecken",
+    "owner": {
+      "id": "Pc8XjPgST8LLF0PgZQbgLg==",
+      "username": "2YexQtKxvCW6TDY8NO7fJg=="
+    },
+    "likes_count": 3,
+    "answers": []
+  },
+  {
+    "id": 18167025298162564,
+    "created_at": 1634922529,
+    "text": "Lasst es euch schmecken!",
+    "owner": {
+      "id": "3Jr_0qshG5B2qxBhwf5q3Q==",
+      "username": "agA3QYclHzvjEu3MLqCcIw=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17893321964330638,
+    "created_at": 1634921460,
+    "text": "Hat die Inge eigentlich auch Instagram?",
+    "owner": {
+      "id": "eBKhCGkfWc3cWmPIFbqvaQ==",
+      "username": "UptfOs2OIfmDrRIcoeryMg=="
+    },
+    "likes_count": 0,
+    "answers": [
+      {
+        "id": 17876184923577258,
+        "created_at": 1634950816,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Nein, das Projekt wird aus Sophies Sicht gedreht",
+        "owner": {
+          "id": "Qa-UjV2mym6yxPWuvXP4pA==",
+          "username": "lmwfkmTQTVh8KPEHTfc9YQ=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 17956199380513532,
+    "created_at": 1634918827,
+    "text": "Lecker, lecker.🌞",
+    "owner": {
+      "id": "0JGy1vW9l58a9uf5oEdpLw==",
+      "username": "kaLhFxgcO_vBDDvxpYIEDw=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17973588991446329,
+    "created_at": 1634918462,
+    "text": "Wie heißt das Lied? 🎺",
+    "owner": {
+      "id": "fqvOhlyfNtZbJXqnxrKl7w==",
+      "username": "BStqoJhgGSkKjEsbtYpysw=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17847834902663776,
+    "created_at": 1634918337,
+    "text": "https://youtu.be/grpcuxivnI4",
+    "owner": {
+      "id": "gfDwUBZiE1sLsA_4WXtf0g==",
+      "username": "ObVBamYlHxAoLVsuAhpJfw=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17951525743557886,
+    "created_at": 1634917788,
+    "text": "Stellst du das genaue Rezept noch in einen neuen Beitrag rein :)",
+    "owner": {
+      "id": "9pDeF4T4f7rFWK4xs7PnKQ==",
+      "username": "bAXCwMa1Y6MAoI2ctgnt5A=="
+    },
+    "likes_count": 9,
+    "answers": [
+      {
+        "id": 17951831668530713,
+        "created_at": 1634918515,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Ein genaues Rezept gibt es nicht. Wir backen immer mit dem, was wir bekommen haben und gerade im Haus haben. Auch die Mengenangaben variieren…",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 29
+      }
+    ]
+  },
+  {
+    "id": 17956472566516876,
+    "created_at": 1634917437,
+    "text": "Da bekommt man doch gleich Hunger drauf 🙂👍",
+    "owner": {
+      "id": "XzhMfh0ugANjR-XEOnmFNA==",
+      "username": "l3EsFnaUNjOA11tkIkGBpw=="
+    },
+    "likes_count": 4,
+    "answers": []
+  },
+  {
+    "id": 17959962949500194,
+    "created_at": 1634916908,
+    "text": "Manchmal wünschte ich es gäbe me one Weiße Rose, damit du mit Geschwistern alt werden könntest",
+    "owner": {
+      "id": "aH1jirnWPEj0OCpwGwynkQ==",
+      "username": "xyvvZ3-0EvPKjvgMciLwPQ=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17868399707611937,
+    "created_at": 1634915284,
+    "text": "Studiert Sophie nicht mehr oder gar sie Semesterferien? Was macht Inge beruflich?",
+    "owner": {
+      "id": "UWGLBp4g8zsu7AXISbNm-A==",
+      "username": "vysIkLhkTum5vje9rm8Fyg=="
+    },
+    "likes_count": 1,
+    "answers": [
+      {
+        "id": 18097612657281373,
+        "created_at": 1634917206,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Doch doch, ich studiere noch. In den Semesterferien musste ich ja in der Fabrik arbeiten. Aber Ende Oktober, also gar nicht mehr so lange, geht es wieder nach München, weil dann das neue Semester startet.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 12
+      },
+      {
+        "id": 17910760253040641,
+        "created_at": 1634984923,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Mein Semester ist auch grade wieder losgegangen! Ich wünsche dir viel Spaß wenn du wieder an der Uni bist 😊",
+        "owner": {
+          "id": "vDIo6-eFsElAhL8d9DiRng==",
+          "username": "BVlYGQnWMQAbGmSLfZvo2Q=="
+        },
+        "likes_count": 0
+      }
+    ]
+  },
+  {
+    "id": 17899072853350425,
+    "created_at": 1634914495,
+    "text": "So Rezept merk ich mir fürs nächste Brot vor 🤫",
+    "owner": {
+      "id": "42HLJWGU79OAxZJd0cjomA==",
+      "username": "3pYbwLAQ0fLSLHWqNTZIHw=="
+    },
+    "likes_count": 4,
+    "answers": []
+  },
+  {
+    "id": 17876683244556989,
+    "created_at": 1634914152,
+    "text": "Schön dass du und Inge soviel miteinander redet. Wie geht es eigentlich deiner anderen Schwester, Elisabeth? Man hört gar nichts von ihr.",
+    "owner": {
+      "id": "dvmn_XrH3epd9t1jcsdwJw==",
+      "username": "hg3BQ-obn8YmCfU8XAxdtw=="
+    },
+    "likes_count": 6,
+    "answers": [
+      {
+        "id": 18128962798246410,
+        "created_at": 1634915342,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Ja, mit Inge komme ich gerade wirklich sehr gut klar. Dass ihr so viel von ihr, aber so wenig vom Elisabeth mitbekommt, liegt wohl größtenteils daran, dass Elisabeth nicht hier bei uns in Ulm ist. Sie arbeitet ja als Kinderkrankenschwester in der Nähe von Ingolstadt.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 18
+      }
+    ]
+  },
+  {
+    "id": 17924805841813444,
+    "created_at": 1634911668,
+    "text": "Was ist eigentlich mit Inge und Otl passiert nach Sophie's Schicksal?",
+    "owner": {
+      "id": "98sOh-lfmlyI4V23fevoGw==",
+      "username": "-Ydkj1z_P0TjZNFrMWP2bw=="
+    },
+    "likes_count": 2,
+    "answers": [
+      {
+        "id": 18003818881364265,
+        "created_at": 1634918544,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== ja",
+        "owner": {
+          "id": "xDxwUssUeKN5zm2no-rpPw==",
+          "username": "Rvhqe7r-KnVOG8J9mkR1og=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17937629536622344,
+        "created_at": 1634912970,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== #TeamSoffer Die beiden heirateten 1952 und verbrachten ihr Leben zusammen. Inge war maßgeblich daran beteiligt, das Wirken der Weißen Rose nach dem Krieg bekannt zu machen und Otl wurde zu einem der bekanntesten deutschen Gestalter und Grafikdesigner des 20. Jahrhunderts.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 34
+      },
+      {
+        "id": 17916257717041976,
+        "created_at": 1634918438,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== ja",
+        "owner": {
+          "id": "xDxwUssUeKN5zm2no-rpPw==",
+          "username": "Rvhqe7r-KnVOG8J9mkR1og=="
+        },
+        "likes_count": 3
+      },
+      {
+        "id": 17905058351123075,
+        "created_at": 1634917725,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== etwa Otl Aicher?",
+        "owner": {
+          "id": "IYHZGhS7JpCR0YBMJFLxbg==",
+          "username": "kTn_5zzngVPKNebTtCZBKQ=="
+        },
+        "likes_count": 3
+      },
+      {
+        "id": 17902480814170449,
+        "created_at": 1634931590,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== krass!!",
+        "owner": {
+          "id": "Knu6wvLS_61GAZnB8_qWnw==",
+          "username": "uSaxzV3Ys6i2MmNhf4UQ1w=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17893511162436022,
+        "created_at": 1634931570,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== what?! i didn’t know!!",
+        "owner": {
+          "id": "Knu6wvLS_61GAZnB8_qWnw==",
+          "username": "uSaxzV3Ys6i2MmNhf4UQ1w=="
+        },
+        "likes_count": 1
+      }
+    ]
+  },
+  {
+    "id": 18032255962312700,
+    "created_at": 1634909883,
+    "text": "Ich glaube, der ist noch nicht ganz durch! 😉 Nicht, dass es Bauchschmerzen gibt! 🤗",
+    "owner": {
+      "id": "gUzr3OdUVS5XlmM8XR7Ygw==",
+      "username": "E-Boe9GYc8I7oibIhk0Qbw=="
+    },
+    "likes_count": 9,
+    "answers": [
+      {
+        "id": 17934349345695544,
+        "created_at": 1634911900,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Schmecken tut es gut. Das mit den Bauchschmerzen wird sich dann ja bald zeigen…",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 9
+      }
+    ]
+  },
+  {
+    "id": 17907495422185288,
+    "created_at": 1634909596,
+    "text": "Für alle, die fragen, ohne zu lesen, hier das Rezept: man nehme, was da ist und bastle daraus etwas leckeres. Bitte, gern geschehen. So war das damals und bis heute in Hungerzeiten, Krisengebieten, Kriegen... so lernt man, wirklich zu kochen und zu backen.",
+    "owner": {
+      "id": "GI4wkuZacoQKuINx-lYslA==",
+      "username": "HcnU26-VcdqfPvxzsNkVYA=="
+    },
+    "likes_count": 59,
+    "answers": []
+  },
+  {
+    "id": 17919311080954165,
+    "created_at": 1634909406,
+    "text": "Leggalegga!! 😍👏🍞🍯",
+    "owner": {
+      "id": "10NzvMLnjbhcGmhbVLLhXA==",
+      "username": "83mLr_m-s48T9p1rlukZmg=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17977129876428786,
+    "created_at": 1634909063,
+    "text": "Bin schon auf das Rezept gespannt ❤️",
+    "owner": {
+      "id": "oQKtmuK4b3BTa3JjXTeOoQ==",
+      "username": "ppUDXBPDulbcNjOP2BuYsA=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17926930420763242,
+    "created_at": 1634909043,
+    "text": ".\n🗓 Das Auswärtige Amt in Berlin kritisiert am 22. Oktober 1942, dass Italien die Juden im Land und in den italienisch besetzten Gebieten vor Verfolgung schützt\n~\n„Betrifft: Italien und die Judenfrage. \n\nBei der Bereinigung der Judenfrage in Deutschland und in verschiedenen anderen europäischen Ländern wird die Regelung der Frage, wie die Juden italienischer Staatsangehörigkeit behandelt werden sollen und wie sich Italien selbst zu der Lösung des Judenproblems stellt, immer dringlicher. [...]\n\nItalien ist in seiner Judengesetzgebung über schwache Ansätze zu seiner Lösung nicht hinausgekommen – auch der Krieg hat bisher keine Tendenz zur Verschärfung in dieser Richtung gebracht. Vielmehr scheint das Bemühen vorzuherrschen, jeder einschneidenden Maßnahme aus dem Wege zu gehen. Viele Einzelzüge – Verharren von Juden in wirtschaftlichen Schlüsselstellungen, zahlreiche Genehmigungen zur Italianisierung jüdischer Namen, Rückgängigmachen früherer Judenausbürgerung usw. – zeigen die Vorsicht auf diesem Gebiet. Praktisch bedeutet es dagegen nicht sehr viel, daß auf der anderen Seite die faschistische Partei neuerdings eine verschärfte Propaganda gegen die Juden entfaltet und dadurch wenigstens stimmungsmäßig den Boden vorbereitet [...].\n\nItalien muß die italienischen Maßnahmen und Gesetzgebung an unsere Grundsätze und Maßnahmen angleichen. [...]“\n〰️\nQuelle: https://die-quellen-sprechen.de/14-028.html",
+    "owner": {
+      "id": "WCvKFQOJZ9Nps46QU5naiw==",
+      "username": "Fy-DLa3DTwl8nhY6R4Sr0A=="
+    },
+    "likes_count": 13,
+    "answers": []
+  },
+  {
+    "id": 17919474532896394,
+    "created_at": 1634908911,
+    "text": "Kannst du vllt das Rezept hier posten? 🔥",
+    "owner": {
+      "id": "KRl27kVmFK8Ra6Xa9N2opQ==",
+      "username": "wVqxPHH7E1l60ft1mnGf2w=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17929313917830402,
+    "created_at": 1634908898,
+    "text": "Das sieht so lecker aus und vor allem sind da keine Eier drin 😍 Kann Inge das Rezept verraten? 🤭",
+    "owner": {
+      "id": "a5Y64xr7sVnheRclX2c9SQ==",
+      "username": "H95qs67WPvWWLZ8QgCZYmg=="
+    },
+    "likes_count": 3,
+    "answers": [
+      {
+        "id": 18260135752019490,
+        "created_at": 1634911843,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Eier sind auch schwer zu bekommen… Also geht es auch ohne! Ein gemeines Rezept gibt es nicht, weil wir - wie mit den Eiern - mit dem backen müssen, was wir bekommen können.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 7
+      }
+    ]
+  },
+  {
+    "id": 17924662093807939,
+    "created_at": 1634908897,
+    "text": "Ein genaues Rezept wäre toll 😍",
+    "owner": {
+      "id": "UOJCbLd4CXWxt9mMdU41AQ==",
+      "username": "l7rQXD2mW4d_0_QlYJWxqA=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17935672381707784,
+    "created_at": 1634908864,
+    "text": "Guten Appetit! 😍",
+    "owner": {
+      "id": "TDyJzXAewGUfmkXqRqH3Cg==",
+      "username": "iC_963RHjPAZCaYyLXUhbA=="
+    },
+    "likes_count": 2,
+    "answers": []
+  },
+  {
+    "id": 17910548933132738,
+    "created_at": 1634908862,
+    "text": "Inge kann gut backen und kochen 👏",
+    "owner": {
+      "id": "qqaiACvMZjCEZV7Xi_n2oQ==",
+      "username": "JU25qv9cUJTod0dMBxbJ8Q=="
+    },
+    "likes_count": 29,
+    "answers": [
+      {
+        "id": 17936205898707881,
+        "created_at": 1634908978,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Das stimmt und passt gut zu ihrem Lebensentwurf als Hausfrau und liebende Familienmutter!",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 37
+      }
+    ]
+  },
+  {
+    "id": 17938886599642801,
+    "created_at": 1634908762,
+    "text": "Frag Inge mal bitte, welches der Zutaten am schwierigsten zu bekommen war... oder am teuersten. Danke",
+    "owner": {
+      "id": "fojpy128lDacxxEKUtevbA==",
+      "username": "1FBLpL7aIbKybtDKO-TW2g=="
+    },
+    "likes_count": 4,
+    "answers": [
+      {
+        "id": 18151527970171205,
+        "created_at": 1634929481,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== sehr gern! Ich finde Lebensmittel(versorgung) auch super spannend, weil darüber auch so viel über das tägliche Leben/Stimmungslage etc gelesen werden kann (und während dem 2. Weltkrieg halt leider auch - Teile der - Grausamkeit gg-über Verfolgten/als minderwertig eingestuften Menschen..)",
+        "owner": {
+          "id": "WCvKFQOJZ9Nps46QU5naiw==",
+          "username": "Fy-DLa3DTwl8nhY6R4Sr0A=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17939080690629181,
+        "created_at": 1634909713,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== ich würde auf Anis und Zimt tippen",
+        "owner": {
+          "id": "mRqKzQ1UUfV1_-iL-WtuAA==",
+          "username": "IJWDY9h81eurn-LiLXa21Q=="
+        },
+        "likes_count": 5
+      },
+      {
+        "id": 17902217369332462,
+        "created_at": 1634929726,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== hab dir was privat geschrieben",
+        "owner": {
+          "id": "fojpy128lDacxxEKUtevbA==",
+          "username": "1FBLpL7aIbKybtDKO-TW2g=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17891502641338374,
+        "created_at": 1634910932,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== LG aus Spanien. Manchmal ist das seltsam. 2021 zahl ich hier 5-6€/Paket Kastanienmehl, aber in Spanien gab es zB in der Nachkriegszeit kein Weissmehl und heute kriegst du Weissbrot für 50 Cents.",
+        "owner": {
+          "id": "fojpy128lDacxxEKUtevbA==",
+          "username": "1FBLpL7aIbKybtDKO-TW2g=="
+        },
+        "likes_count": 3
+      },
+      {
+        "id": 17890153562360202,
+        "created_at": 1634927963,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== für nur über Import erhältliche Gewürze wurde wohl schon im 1. Weltkrieg begonnen, Ersatzgewürze mit künstlichen Aromastoffen zu entwickeln/herzustellen. Das erste war das - heute als Backaroma immer noch erhältliche - Vanillin. Es gab zB ebenso Kunstpfeffer. Während des 2. Weltkrieges erlebten diese Kunstgewürze dann einen erneuten Boom. Und es wurden weitere Kunstgewürze entwickelt zB „Kunstzimt“. Wobei diese Gewürze auch dennoch knapp und nicht immer für alle verfügbar waren.\nIch würde daher auch auf Zimt und Sternanis tippen. Und die waren deswg wahrscheinlich auch am teuersten. Für die restlichen Zutaten benötigte man auf jeden Fall LebensmittelMarken. Die Marken stellten zwar auch nicht sicher, dass das Angebot so groß war, dass jeder seine Marken voll einlösen konnte, aber als „Grundprodukte“ waren Mehl, Zucker, (Kunst)Honig sicher besser aufzutreiben als exotische Gewürze oder deren Ersatzprodukte. Und bzgl der Preise: für sehr viele Lebensmittel (bzw allg für sehr viele Produkte) wurden grds Preisobergrenzen festgelegt.. (auch wenn dies wahrschl sicher nicht komplett Schwarzmarkthandel zu höheren Preisen verhinderte..)\n\nQuelle bzgl der Ersatzgewürze:\n„Ersatzgewürze (1916–1948)“ VON ELISABETH VAUPEL\nhttps://www.nomos-elibrary.de/10.5771/0040-117X-2011-2-91.pdf?download_full_pdf=1&page=1",
+        "owner": {
+          "id": "WCvKFQOJZ9Nps46QU5naiw==",
+          "username": "Fy-DLa3DTwl8nhY6R4Sr0A=="
+        },
+        "likes_count": 7
+      },
+      {
+        "id": 17889083825376673,
+        "created_at": 1634928814,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== super interessant!!!! Danke!!!!!",
+        "owner": {
+          "id": "fojpy128lDacxxEKUtevbA==",
+          "username": "1FBLpL7aIbKybtDKO-TW2g=="
+        },
+        "likes_count": 2
+      }
+    ]
+  },
+  {
+    "id": 17903525447149685,
+    "created_at": 1634908566,
+    "text": "An die Zutaten zu kommen ist doch sicher während des Kriegs nicht einfach, oder?",
+    "owner": {
+      "id": "voe4YW5Nmr0WBoPPenFA4A==",
+      "username": "9NCzPqhEf445_f_KOu8ycQ=="
+    },
+    "likes_count": 17,
+    "answers": [
+      {
+        "id": 17947909372575582,
+        "created_at": 1634910818,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== aber Mehl, Zucker und (Kunst-)Honig gab es doch schon nur gg Marken, oder? Und Sternanis und Zimt als Importware wahrschl auch nicht so leicht erhältlich wahrschl…",
+        "owner": {
+          "id": "WCvKFQOJZ9Nps46QU5naiw==",
+          "username": "Fy-DLa3DTwl8nhY6R4Sr0A=="
+        },
+        "likes_count": 14
+      },
+      {
+        "id": 17938813996638947,
+        "created_at": 1635020566,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Auch Sternanis?",
+        "owner": {
+          "id": "LY5WKrmdK7q4T4d1sUgc6g==",
+          "username": "k3r4LcktaMACrAUy8M5L6A=="
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17931420688775142,
+        "created_at": 1634983104,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Eine Ergänzung: Die Lebensmittelversorgung im Deutschen Reich verschlechterte sich insb. deswegen im späteren Kriegsverlauf, weil bis dahin die Deutschen von der massiven Ausbeutung der besetzten Gebiete profitiert hatten (vor allem die \"arischen\", denn für jüdische Mitbürger*innen galten niedrigere Rationierungen). \nD.h. die noch relativ gute Versorgungslage bis 42 basierte auf der radikalen Ausbeutung der erorberten Gebiete im Osten, wie sie auch Fritz Hartnagel in seinen Briefen an Sophie Scholl beschreibt. Die dortige Bevölkerung wurde millionenfach (und vom NS-Regime bewusst geplant) dem Hungertod preisgegeben. Gezieltes Aushungern ganzer Landstriche und Städte bzw. der dortigen Bevölkerung wie in Leningrad war zudem Teil der deutschen Kriegsführung.",
+        "owner": {
+          "id": "BgHwq7d7GwT4br6aRwD6iA==",
+          "username": "J73HYFZEN1cUbwDvddKTIQ=="
+        },
+        "likes_count": 3
+      },
+      {
+        "id": 17897721089261309,
+        "created_at": 1634909828,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== #TeamSoffer Knappe Lebensmittel (vor allem tierische und fetthaltige Produkte) wurden nur gegen Lebensmittelmarken ausgeteilt. Die Zutaten des hier zubereiteten Honigbrots waren vergleichsweise leichter zugänglich.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 22
+      },
+      {
+        "id": 17897508056369581,
+        "created_at": 1634914337,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== #TeamSoffer Richtig, insbesondere Zucker zählte zu den rationierten Lebensmitteln, welche mithilfe von Lebensmittelmarken erhältlich waren. Die Verfügbarkeit verschiedener Produkte schwankte stark, in den Küchen musste daher häufig mit Zutaten improvisiert werden. Die Lebensmittelsituation verschlechterte sich im Kriegsverlauf immer weiter.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 26
+      }
+    ]
+  },
+  {
+    "id": 17847666698664567,
+    "created_at": 1634908562,
+    "text": "Habt Ihr ein genaues Rezept?",
+    "owner": {
+      "id": "ho0AZMfBCMinRTwu37DrTQ==",
+      "username": "e5IPpvARKOSuDanpe2wFFg=="
+    },
+    "likes_count": 4,
+    "answers": [
+      {
+        "id": 18149908534200364,
+        "created_at": 1634913035,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Oh, danke für den Hinweis. Ich hab davon noch nie etwas gehört. Ich schau mal.",
+        "owner": {
+          "id": "ho0AZMfBCMinRTwu37DrTQ==",
+          "username": "e5IPpvARKOSuDanpe2wFFg=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17915250782063278,
+        "created_at": 1634909518,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== #TeamSoffer Honigbrot wird auch heute noch in der vorweihnachtlichen Zeit gern gebacken und gegessen. Im Internet gibt es die vielseitigsten Rezepte, die inspirieren und auch zu eigenen Kreationen anregen können.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 20
+      }
+    ]
+  },
+  {
+    "id": 17898263693473681,
+    "created_at": 1634908492,
+    "text": "Hey Sophie, frag doch mal Inge nach dem Rezept. 😋 Dankeschön!",
+    "owner": {
+      "id": "_AYKmBwmVFNanIseQjMqZQ==",
+      "username": "cz2rO3AM65tf2Af8B9auhQ=="
+    },
+    "likes_count": 1,
+    "answers": []
+  },
+  {
+    "id": 17897886569348826,
+    "created_at": 1634908394,
+    "text": "Also erstmal: einen guten Appetit! 😊 aber ich hab mich trotzdem gefragt, hatte man immer diese Zutaten zuhause oder musste man lange darauf sparen??",
+    "owner": {
+      "id": "tYIUfTvjWO7bupoYtmWH7g==",
+      "username": "zgSSKcDGtmEu3d1eA7oR0g=="
+    },
+    "likes_count": 6,
+    "answers": []
+  },
+  {
+    "id": 17919409912967348,
+    "created_at": 1634908339,
+    "text": "Meinst du, die liebe Inge könnte uns mal das genaue Rezept geben?",
+    "owner": {
+      "id": "RgndidiSQgA709OtRP9hmw==",
+      "username": "Byi5w8kjIGHuRowrYqWYhw=="
+    },
+    "likes_count": 30,
+    "answers": [
+      {
+        "id": 17982764383412380,
+        "created_at": 1634909241,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Ein genaues Rezept gibt es leider nicht. Das hängt immer davon ab, was wir gerade bekommen können. So schmeckt es immer anders, aber jedes Mal einzigartig gut!",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 53
+      }
+    ]
+  },
+  {
+    "id": 18018727762327466,
+    "created_at": 1634908273,
+    "text": "Das sieht klitschig aus, wie zu kompakt, feucht, nicht aufgegangen.",
+    "owner": {
+      "id": "c4yMLe7S-0wf1wa9x_qujg==",
+      "username": "CnWZHrr9eOv7wBN0wD-6VQ=="
+    },
+    "likes_count": 8,
+    "answers": [
+      {
+        "id": 18008821591359157,
+        "created_at": 1634909358,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Man muss mit dem backen, was man hat. Und darf sich nicht vom ersten Eindruck täuschen lassen!",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 66
+      },
+      {
+        "id": 17921332000851503,
+        "created_at": 1635000781,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Ein Grund könnte sein, dass eine säurehaltige Zutat fehlt, damit Natron als Backtriebmittel funktioniert.",
+        "owner": {
+          "id": "bGH4WIogb63eANzPhCs5vQ==",
+          "username": "S7w1yZcdvvWGETU5NjeC6w=="
+        },
+        "likes_count": 1
+      },
+      {
+        "id": 17919638911957560,
+        "created_at": 1634921202,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Das ist doch das Beste😍",
+        "owner": {
+          "id": "OfKOmt2T2K_44XF06zVTOw==",
+          "username": "5bMii7q0HnE1gV1jzEp-jg=="
+        },
+        "likes_count": 5
+      },
+      {
+        "id": 17916509803946011,
+        "created_at": 1634916799,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== @tRAetuaFCRcZAT0adXVqUw== Ich liebe es, wenn es nicht richtig durchgebacken ist 🥰 Inges Honigbrot sieht großartig aus 👍🏻",
+        "owner": {
+          "id": "4rP6GZ77S-YVyCCJuSnV3A==",
+          "username": "l7CqomSNiOEDaUEOnAZSKA=="
+        },
+        "likes_count": 9
+      }
+    ]
+  },
+  {
+    "id": 18167078737161162,
+    "created_at": 1634908123,
+    "text": "Schmeckt das wirklich so gut;) sieht ein wenig aus wie Leberkäse",
+    "owner": {
+      "id": "qya1I7YpxoMDSkNXUDCFkA==",
+      "username": "oHZC3TO0yUlfQUbDm50a8w=="
+    },
+    "likes_count": 5,
+    "answers": [
+      {
+        "id": 17984153638382433,
+        "created_at": 1634908653,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Dann bekommen wir vllt das Rezept?",
+        "owner": {
+          "id": "S3ExiwaumFp4PFFn2wXYkQ==",
+          "username": "BCuqGSMaRBEe0ikIHXtD1w=="
+        },
+        "likes_count": 3
+      },
+      {
+        "id": 17943250066609682,
+        "created_at": 1634917400,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== thx, übersehen",
+        "owner": {
+          "id": "S3ExiwaumFp4PFFn2wXYkQ==",
+          "username": "BCuqGSMaRBEe0ikIHXtD1w=="
+        },
+        "likes_count": 0
+      },
+      {
+        "id": 17917822478000250,
+        "created_at": 1634917216,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== na ist doch im Video beschrieben",
+        "owner": {
+          "id": "qya1I7YpxoMDSkNXUDCFkA==",
+          "username": "oHZC3TO0yUlfQUbDm50a8w=="
+        },
+        "likes_count": 2
+      },
+      {
+        "id": 17910355067144197,
+        "created_at": 1634908633,
+        "text": "@tRAetuaFCRcZAT0adXVqUw== Aber ja, das schmeckt wirklich sehr gut! Lass dich lieber nicht von der Optik täuschen.",
+        "owner": {
+          "id": "9rICyTfoSV8xPafAZ0Xo0w==",
+          "username": "hib4mKmHA-vgwtwb0Q_04A=="
+        },
+        "likes_count": 8
+      }
+    ]
+  }
+]
