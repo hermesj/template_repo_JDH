@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH/main?filepath=author_guideline_template.ipynb)
 
-This is the abstract dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Social Media become increasingly important for historical scholarship to reconstruct events, but also analyse current social movements and discursive negotiations. However, the dependence on private platforms and third parties leads to substantial challenges for (historical) research regarding the collection, archiving and analysis of content. This is especially true for the audiovisual platforms Instagram and TikTok. This text aims to both highlight existing difficulties and propose possible approaches for archiving and analysing social media data. Due to the volatile nature of social media, these concepts cannot be considered universally applicable. However, it is clear that further discussions within the discipline as well as interdisciplinary cooperation and initiatives are needed to deal with the challenges.
 
 # Keywords
-example, dummy text, lorem ipsum
+Social Media, Archiving, Instagram, TikTok, Computational Methods, Digital History 
